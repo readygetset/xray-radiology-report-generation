@@ -1,9 +1,7 @@
 # X-Ray Radiology Report Generation
 
 ## Environments and Requirements
-This project runs in a Colab environment with the following setup:
-- Fine-tuning: Conducted on A100
-- Inference: Runs on L4
+This project runs in a Colab A100 environment
 
 ## Dataset
 This project uses a subset of the **IU X-Ray dataset**, containing over 2,900 chest X-ray images. The dataset can be downloaded [here](https://drive.google.com/file/d/1cdcsyJtW8G2YYptlujzDAU-fMXOpew5K/view?usp=sharing) and should be placed in the directory specified by `data_dir` in the code.  
@@ -13,6 +11,7 @@ For evaluation, the **validation dataset** consists of reports from the original
 Run the following Jupyter Notebook files in Colab for training and evaluation:
 - `wanglab_qwen_finetune.ipynb`
 - `wanglab_llama_finetune.ipynb`
+To prevent Out of Memory errors, it is recommended to run the training and evaluation steps separately.
 
 **Note:** To run the evaluation code, make sure that the `green_score` folder is in the same directory as the notebook files.
   
@@ -22,7 +21,15 @@ You can download trained models here:
 - [**Llama-3.2-11B-Vision-Instruct**](https://drive.google.com/drive/folders/1-ohCCIXlWGTiYuqkSBojqp48VWwQOd7d?usp=drive_link) (trained with `wanglab_llama_finetune.ipynb`)  
 
 ## Results
+
 **Qwen2-VL-7B-Instruct**
+
+| Data Split | Lung | Heart | Mediastinal | Bone |
+|----------|----------|----------|----------|----------|
+| Validation | 0.6525 | 0.6342 | 0.4296 | 0.1413 |
+| Testing | 0.6861 | 0.8406 | 0.5920 | 0.1234 |
+
+**Qwen2-VL-7B-Instruct (finetuned with unsloth)**
 
 | Data Split | Lung | Heart | Mediastinal | Bone |
 |----------|----------|----------|----------|----------|
@@ -30,7 +37,7 @@ You can download trained models here:
 | Testing | 0.6327 | 0.8161 | 0.5785 | 0.1002 |
 
 
-**Llama-3.2-11B-Vision-Instruct**
+**Llama-3.2-11B-Vision-Instruct (finetuned with unsloth)**
 
 | Data Split | Lung | Heart | Mediastinal | Bone |
 |----------|----------|----------|----------|----------|
