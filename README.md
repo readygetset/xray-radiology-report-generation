@@ -15,9 +15,12 @@ Run the following Jupyter Notebook files in Colab for training and evaluation:
 - `unsloth_llama-3.2-11b-vision_finetune.ipynb`: Fine-tuning Llama-3.2-11B-Vision using Unsloth.
 - `unsloth_qwen2-vl-7b_finetune.ipynb`: Fine-tuning Qwen2-BL-7B using Unsloth.
 
-To prevent Out of Memory errors, it is recommended to run the training and evaluation steps separately.
+**Note:**
 
-**Note:** To run the evaluation code, make sure that the green_score folder is in the same directory as the notebook files.
+- To prevent Out of Memory errors, it is recommended to run the training and evaluation steps separately.
+- When running the evaluation code, ensure that the `green_score` folder is in the same directory as the notebook files.
+- In the code section for Hugging Face login, make sure to enter your authentication token.
+- Set `data_dir` and `model_dir` to the appropriate directories based on your preferences.
   
 ## Trained Models
 You can download trained models here: 
