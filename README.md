@@ -34,5 +34,5 @@ You can download trained models here:
 
 | Data Split | Lung | Heart | Mediastinal | Bone |
 |----------|----------|----------|----------|----------|
-| Validation |  |  |  |  |
+| Validation | 0.4937 | 0.5101 | 0.3037 | 0.0791 |
 | Testing | 0.5068 | 0.6943 | 0.4466 | 0.0671 |
