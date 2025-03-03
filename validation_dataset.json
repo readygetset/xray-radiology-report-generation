@@ -1,0 +1,3258 @@
+[
+  {
+    "id": "CXR2279_IM-0865",
+    "original_report": "Heart size is enlarged. The aorta is unfolded. Otherwise the mediastinal contour is normal. There are streaky bibasilar opacities. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid. The XXXX are grossly normal. There is no visible free intraperitoneal air under the diaphragm.",
+    "classification": {
+      "lung": "Streaky bibasilar opacities. No visible pneumothorax. No visible pleural fluid.",
+      "heart": "Heart size is enlarged.",
+      "mediastinal": "The aorta is unfolded. Otherwise the mediastinal contour is normal.",
+      "bone": "",
+      "others": "The XXXX are grossly normal. There is no visible free intraperitoneal air under the diaphragm."
+    }
+  },
+  {
+    "id": "CXR2056_IM-0694-1001",
+    "original_report": "The heart size is upper limits of normal. The pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia.",
+    "classification": {
+      "lung": "There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia.",
+      "heart": "The heart size is upper limits of normal.",
+      "mediastinal": "The mediastinum is within normal limits.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2379_IM-0939",
+    "original_report": "Cardiomediastinal silhouette is within normal limits of size and appearance. Lungs are hyperlucent and hyperexpanded. Negative for focal airspace disease or consolidation. Negative for pneumothorax or pleural effusion. Limited evaluation reveals no acute abnormality.",
+    "classification": {
+      "lung": "Lungs are hyperlucent and hyperexpanded. Negative for focal airspace disease or consolidation. Negative for pneumothorax or pleural effusion.",
+      "heart": "Cardiomediastinal silhouette is within normal limits of size and appearance.",
+      "mediastinal": "Cardiomediastinal silhouette is within normal limits of size and appearance.",
+      "bone": "Limited evaluation reveals no acute abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3586_IM-1764",
+    "original_report": "The heart is mildly enlarged. The mediastinal contours are stable. The lungs are clear.",
+    "classification": {
+      "lung": "The lungs are clear.",
+      "heart": "The heart is mildly enlarged.",
+      "mediastinal": "The mediastinal contours are stable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3149_IM-1480",
+    "original_report": "The lungs are hyperexpanded. Cardiomediastinal silhouette is within normal limits. No pleural effusion, focal airspace opacities or pneumothorax. No free subdiaphragmatic air.",
+    "classification": {
+      "lung": "The lungs are hyperexpanded. No pleural effusion, focal airspace opacities or pneumothorax.",
+      "heart": "Cardiomediastinal silhouette is within normal limits.",
+      "mediastinal": "Cardiomediastinal silhouette is within normal limits.",
+      "bone": "",
+      "others": "No free subdiaphragmatic air."
+    }
+  },
+  {
+    "id": "CXR3804_IM-1914",
+    "original_report": "Cardiomediastinal silhouette stable and within normal limits for size with unchanged atherosclerosis and tortuosity thoracic aorta. There is no focal consolidation, pneumothorax, or effusion. No acute bony abnormality. Stable left proximal humeral enchondroma versus remote bony infarct. Stable multilevel degenerative disc disease of the thoracic spine. Calcified granuloma seen anteriorly on lateral view is stable since XXXX.",
+    "classification": {
+      "lung": "No focal consolidation, pneumothorax, or effusion.",
+      "heart": "Cardiomediastinal silhouette stable and within normal limits for size with unchanged atherosclerosis.",
+      "mediastinal": "Tortuosity thoracic aorta. Calcified granuloma seen anteriorly on lateral view is stable since XXXX.",
+      "bone": "No acute bony abnormality. Stable left proximal humeral enchondroma versus remote bony infarct. Stable multilevel degenerative disc disease of the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2316_IM-0889",
+    "original_report": "The lungs are clear. The cardiomediastinal silhouette is within normal limits. No pneumothorax or pleural effusion.",
+    "classification": {
+      "lung": "The lungs are clear. No pneumothorax or pleural effusion.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette is within normal limits.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3717_IM-1856",
+    "original_report": "Low lung volumes. XXXX normal heart size. No pneumothorax. No large effusion. No focal infiltrate.",
+    "classification": {
+      "lung": "Low lung volumes. No pneumothorax. No large effusion. No focal infiltrate.",
+      "heart": "XXXX normal heart size.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3289_IM-1570",
+    "original_report": "Normal cardiac size and contour, unremarkable mediastinal silhouette. Normal pulmonary XXXX. Lungs clear, no airspace disease, pleural effusion, or pneumothorax.",
+    "classification": {
+      "lung": "Normal pulmonary XXXX. Lungs clear, no airspace disease, pleural effusion, or pneumothorax.",
+      "heart": "Normal cardiac size and contour.",
+      "mediastinal": "Unremarkable mediastinal silhouette.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1141_IM-0096",
+    "original_report": "Both lungs are clear and expanded. Heart and mediastinum normal.",
+    "classification": {
+      "lung": "Both lungs are clear and expanded.",
+      "heart": "Heart is normal.",
+      "mediastinal": "Mediastinum is normal.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR357_IM-1753",
+    "original_report": "Cardiac size, mediastinal contour, and pulmonary vascularity are within normal limits. The right heart XXXX appears obscured and there are streaky right medial basilar airspace opacities, possibly due to airspace disease or atelectasis. Otherwise, no focal consolidation, pleural effusion, or pneumothorax. The visualized osseous structures appear intact.",
+    "classification": {
+      "lung": "Streaky right medial basilar airspace opacities, possibly due to airspace disease or atelectasis. No focal consolidation, pleural effusion, or pneumothorax. Pulmonary vascularity is within normal limits.",
+      "heart": "Cardiac size is within normal limits. The right heart XXXX appears obscured.",
+      "mediastinal": "Mediastinal contour is within normal limits.",
+      "bone": "The visualized osseous structures appear intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1553_IM-0360",
+    "original_report": "Frontal and lateral views of the chest show an unchanged cardiomediastinal silhouette. Normal mediastinal contour, pulmonary XXXX and vasculature, central airways and aeration of the lungs. No pleural effusion. There are XXXX spine marginal osteophytes.",
+    "classification": {
+      "lung": "Normal pulmonary XXXX and vasculature, central airways and aeration of the lungs. No pleural effusion.",
+      "heart": "Unchanged cardiomediastinal silhouette.",
+      "mediastinal": "Normal mediastinal contour.",
+      "bone": "XXXX spine marginal osteophytes.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR667_IM-2241",
+    "original_report": "There has been interval removal of right-sided central venous catheter. Enteric tube is again noted, coursing below the diaphragm the tip of which is seen projecting over the expected location of the body of the stomach. The cardiomediastinal silhouette is normal, unchanged from prior. Low lung volumes, causing streaky bibasilar atelectasis and bronchovascular crowding. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities. Lateral view reveals mild degenerative changes of the thoracic spine.",
+    "classification": {
+      "lung": "Low lung volumes, causing streaky bibasilar atelectasis and bronchovascular crowding. There is no pneumothorax.",
+      "heart": "Cardiomediastinal silhouette is normal, unchanged from prior.",
+      "mediastinal": "Interval removal of right-sided central venous catheter.",
+      "bone": "Visualized bony structures reveal no acute abnormalities. Lateral view reveals mild degenerative changes of the thoracic spine.",
+      "others": "Enteric tube is again noted, coursing below the diaphragm the tip of which is seen projecting over the expected location of the body of the stomach."
+    }
+  },
+  {
+    "id": "CXR2791_IM-1225",
+    "original_report": "The heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen.",
+    "classification": {
+      "lung": "The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen.",
+      "heart": "The heart size appears within normal limits.",
+      "mediastinal": "Pulmonary vascularity appears within normal limits.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3974_IM-2034",
+    "original_report": "The lungs are hyperexpanded consistent with emphysema. The heart size and pulmonary vascularity appear within normal limits. No pneumothorax or pleural effusion is seen. Patchy airspace disease is present in the right middle lobe. Degenerative changes are present spine.",
+    "classification": {
+      "lung": "The lungs are hyperexpanded consistent with emphysema. No pneumothorax or pleural effusion is seen. Patchy airspace disease is present in the right middle lobe. Pulmonary vascularity appear within normal limits.",
+      "heart": "The heart size appears within normal limits.",
+      "mediastinal": "",
+      "bone": "Degenerative changes are present in the spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3514_IM-1715",
+    "original_report": "No focal lung consolidation. A XXXX density overlying the left costophrenic XXXX is XXXX due to overlying soft tissues. Heart size and pulmonary vascularity are within normal limits. No pneumothorax or pleural effusion. Osseous structures are grossly intact.",
+    "classification": {
+      "lung": "No focal lung consolidation. No pneumothorax or pleural effusion. A XXXX density overlying the left costophrenic XXXX is XXXX due to overlying soft tissues.",
+      "heart": "Heart size and pulmonary vascularity are within normal limits.",
+      "mediastinal": "",
+      "bone": "Osseous structures are grossly intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2443_IM-0980",
+    "original_report": "Heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. Vascular calcification is noted.",
+    "classification": {
+      "lung": "The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen.",
+      "heart": "Heart size appears within normal limits.",
+      "mediastinal": "Pulmonary vascularity appears within normal limits.",
+      "bone": "",
+      "others": "Vascular calcification is noted."
+    }
+  },
+  {
+    "id": "CXR3266_IM-1551",
+    "original_report": "Cardiomediastinal silhouette and pulmonary vasculature are within normal limits. Lungs are clear. No pneumothorax or pleural effusion. No acute osseous findings.",
+    "classification": {
+      "lung": "Lungs are clear. No pneumothorax or pleural effusion. Pulmonary vasculature are within normal limits.",
+      "heart": "Cardiomediastinal silhouette within normal limits.",
+      "mediastinal": "Cardiomediastinal silhouette within normal limits.",
+      "bone": "No acute osseous findings.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR917_IM-2419",
+    "original_report": "There are stable XXXX sternotomy XXXX. The heart and mediastinal contours are unchanged. The lungs are clear without focal infiltrate. There is no effusion or pneumothorax.",
+    "classification": {
+      "lung": "The lungs are clear without focal infiltrate. There is no effusion or pneumothorax.",
+      "heart": "The heart contours are unchanged.",
+      "mediastinal": "The mediastinal contours are unchanged.",
+      "bone": "Stable XXXX sternotomy XXXX.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2448_IM-0983",
+    "original_report": "Mediastinal contours are normal. No significant change in pneumothorax or right pleural fluid..",
+    "classification": {
+      "lung": "No significant change in pneumothorax or right pleural fluid.",
+      "heart": "",
+      "mediastinal": "Mediastinal contours are normal.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR127_IM-0181",
+    "original_report": "Heart size and mediastinal contour within normal limits. Calcified granuloma in the left lung base. No focal airspace consolidation, pneumothorax, or large pleural effusion. No acute osseous abnormality.",
+    "classification": {
+      "lung": "Calcified granuloma in the left lung base. No focal airspace consolidation, pneumothorax, or large pleural effusion.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "Mediastinal contour within normal limits.",
+      "bone": "No acute osseous abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1170_IM-0115",
+    "original_report": "No pneumothorax, pleural effusion, or focal airspace disease. Mild cardiomegaly. Cardio mediastinal silhouette unremarkable. Bony structures appear intact.",
+    "classification": {
+      "lung": "No pneumothorax, pleural effusion, or focal airspace disease.",
+      "heart": "Mild cardiomegaly.",
+      "mediastinal": "Cardio mediastinal silhouette unremarkable.",
+      "bone": "Bony structures appear intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3636_IM-1803",
+    "original_report": "Normal cardiomediastinal silhouettes. Mild hyperexpansion of the lungs. Stable appearance of scarring at lung bases. Prominent bilateral interstitial opacities are chronic in XXXX. No focal consolidation, pleural effusion, or pneumothorax. No acute osseous abnormality.",
+    "classification": {
+      "lung": "Mild hyperexpansion of the lungs. Stable appearance of scarring at lung bases. Prominent bilateral interstitial opacities are chronic in XXXX. No focal consolidation, pleural effusion, or pneumothorax.",
+      "heart": "Normal cardiomediastinal silhouettes.",
+      "mediastinal": "Normal cardiomediastinal silhouettes.",
+      "bone": "No acute osseous abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1901_IM-0585",
+    "original_report": "The XXXX examination consists of frontal and lateral radiographs of the chest. There has been interval CABG. Surgical clips are again seen in the epigastric region. The cardiomediastinal contours are within normal limits. Pulmonary vascularity is within normal limits. No focal consolidation, pleural effusion, or pneumothorax identified. The visualized osseous structures are unremarkable.",
+    "classification": {
+      "lung": "Pulmonary vascularity is within normal limits. No focal consolidation, pleural effusion, or pneumothorax identified.",
+      "heart": "Interval CABG. Cardiomediastinal contours are within normal limits.",
+      "mediastinal": "Cardiomediastinal contours are within normal limits. Surgical clips are again seen in the epigastric region.",
+      "bone": "The visualized osseous structures are unremarkable.",
+      "others": "The XXXX examination consists of frontal and lateral radiographs of the chest."
+    }
+  },
+  {
+    "id": "CXR24_IM-0949",
+    "original_report": "Cardiomediastinal silhouette is within normal limits of size and appearance. The pulmonary vascularity is unremarkable. Lungs are expanded and clear of airspace disease. Negative for pneumothorax or pleural effusion. Limited bone evaluation reveals no acute abnormality. There is incompletely evaluated lumbar levoscoliosis.",
+    "classification": {
+      "lung": "Lungs are expanded and clear of airspace disease. Negative for pneumothorax or pleural effusion. The pulmonary vascularity is unremarkable.",
+      "heart": "Cardiomediastinal silhouette is within normal limits of size and appearance.",
+      "mediastinal": "Cardiomediastinal silhouette is within normal limits of size and appearance.",
+      "bone": "Limited bone evaluation reveals no acute abnormality.",
+      "others": "There is incompletely evaluated lumbar levoscoliosis."
+    }
+  },
+  {
+    "id": "CXR3664_IM-1822",
+    "original_report": "There are no acute osseous abnormalities. Soft tissue structures are within normal limits. Normal heart size and hilar vascular markings. The lungs are clear without focal area of consolidation, pleural effusion, pneumothorax.",
+    "classification": {
+      "lung": "The lungs are clear without focal area of consolidation, pleural effusion, pneumothorax.",
+      "heart": "Normal heart size and hilar vascular markings.",
+      "mediastinal": "",
+      "bone": "There are no acute osseous abnormalities.",
+      "others": "Soft tissue structures are within normal limits."
+    }
+  },
+  {
+    "id": "CXR1630_IM-0411",
+    "original_report": "2 images. There is a poorly defined lung nodule in the right upper lobe measuring approximately 7 mm and partially superimposed upon anterior right second rib. Otherwise, the lungs are clear. No pleural effusion or pneumothorax. Heart size is normal. Critical result notification documented through Primordial.",
+    "classification": {
+      "lung": "There is a poorly defined lung nodule in the right upper lobe measuring approximately 7 mm. The lungs are clear. No pleural effusion or pneumothorax.",
+      "heart": "Heart size is normal.",
+      "mediastinal": "",
+      "bone": "Partially superimposed upon anterior right second rib.",
+      "others": "Critical result notification documented through Primordial."
+    }
+  },
+  {
+    "id": "CXR3826_IM-1932",
+    "original_report": "Heart size and cardiomediastinal contours are normal. Lungs are clear without focal air space opacity, pleural effusion, or pneumothorax. Osseous structures are intact.",
+    "classification": {
+      "lung": "Lungs are clear without focal air space opacity, pleural effusion, or pneumothorax.",
+      "heart": "Heart size and cardiomediastinal contours are normal.",
+      "mediastinal": "Cardiomediastinal contours are normal.",
+      "bone": "Osseous structures are intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3588_IM-1766",
+    "original_report": "XXXX XXXX and lateral chest examination was obtained. The heart silhouette is normal in size and contour. Aortic XXXX appear unremarkable. Lungs demonstrate no acute findings. There is no effusion or pneumothorax.",
+    "classification": {
+      "lung": "Lungs demonstrate no acute findings. There is no effusion or pneumothorax.",
+      "heart": "The heart silhouette is normal in size and contour.",
+      "mediastinal": "Aortic contours appear unremarkable.",
+      "bone": "",
+      "others": "XXXX XXXX and lateral chest examination was obtained."
+    }
+  },
+  {
+    "id": "CXR726_IM-2286",
+    "original_report": "Heart size within normal limits. Prominent right perihilar density consistent with lymphadenopathy, previously partially demonstrated XXXX abdomen and pelvis XXXX, XXXX. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax. TIPS noted.",
+    "classification": {
+      "lung": "Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "Prominent right perihilar density consistent with lymphadenopathy, previously partially demonstrated XXXX abdomen and pelvis XXXX, XXXX.",
+      "bone": "",
+      "others": "TIPS noted."
+    }
+  },
+  {
+    "id": "CXR3598_IM-1775",
+    "original_report": "Heart size within normal limits, stable mediastinal and hilar contours. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. XXXX convexity also present on the previous exam.",
+    "classification": {
+      "lung": "No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "Stable mediastinal and hilar contours.",
+      "bone": "",
+      "others": "XXXX convexity also present on the previous exam."
+    }
+  },
+  {
+    "id": "CXR1699_IM-0459",
+    "original_report": "There is mild XXXX mentally without pulmonary edema. Tortuous thoracic aorta, unchanged. Stable positioning of the dual-XXXX cardiac XXXX device. No visible pneumothorax. There is a small left pleural effusion. Focal airspace consolidation is visualized in the superior segment of the left lower lobe, XXXX appreciated on lateral projection. Increased retrosternal clear space suggesting chronic obstructive pulmonary disease.",
+    "classification": {
+      "lung": "Mild XXXX mentally without pulmonary edema. No visible pneumothorax. There is a small left pleural effusion. Focal airspace consolidation is visualized in the superior segment of the left lower lobe, XXXX appreciated on lateral projection. Increased retrosternal clear space suggesting chronic obstructive pulmonary disease.",
+      "heart": "Stable positioning of the dual-XXXX cardiac XXXX device.",
+      "mediastinal": "Tortuous thoracic aorta, unchanged.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR483_IM-2107",
+    "original_report": "There is flattening of hemidiaphragms. There are prominent interstitial markings. There is no focal consolidation to suggest pneumonia. There are atherosclerotic institutions of the aorta. The heart is of the first limits of normal size. No pneumothorax or pleural effusion.",
+    "classification": {
+      "lung": "Flattening of hemidiaphragms. Prominent interstitial markings. No focal consolidation to suggest pneumonia. No pneumothorax or pleural effusion.",
+      "heart": "Heart is of the first limits of normal size.",
+      "mediastinal": "Atherosclerotic institutions of the aorta.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3451_IM-1674",
+    "original_report": "The heart is normal in size. The mediastinum is Stable. Calcified AP XXXX lymph XXXX are seen. A small right-sided pleural effusion versus thickening. Right inferior rib deformities.",
+    "classification": {
+      "lung": "A small right-sided pleural effusion versus thickening.",
+      "heart": "The heart is normal in size.",
+      "mediastinal": "The mediastinum is Stable. Calcified AP XXXX lymph XXXX are seen.",
+      "bone": "Right inferior rib deformities.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3304_IM-1581",
+    "original_report": "The cardiomediastinal silhouette is normal size and configuration. Pulmonary vasculature within normal limits. The lungs are well-aerated. There is no pneumothorax, pleural effusion, or focal consolidation. There is levoscoliosis of the thoracic spine.",
+    "classification": {
+      "lung": "The lungs are well-aerated. There is no pneumothorax, pleural effusion, or focal consolidation. Pulmonary vasculature within normal limits.",
+      "heart": "The cardiomediastinal silhouette is normal size and configuration.",
+      "mediastinal": "The cardiomediastinal silhouette is normal size and configuration.",
+      "bone": "There is levoscoliosis of the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3417_IM-1652",
+    "original_report": "The lungs are hyperexpanded, consistent with COPD. Mild cardiomegaly. No focal lung consolidation. No pneumothorax or pleural effusion. Pulmonary vascularity is within normal limits. Mild degenerative changes of the thoracic spine. Aortic calcifications consistent with atherosclerotic disease.",
+    "classification": {
+      "lung": "The lungs are hyperexpanded, consistent with COPD. No focal lung consolidation. No pneumothorax or pleural effusion. Pulmonary vascularity is within normal limits.",
+      "heart": "Mild cardiomegaly.",
+      "mediastinal": "Aortic calcifications consistent with atherosclerotic disease.",
+      "bone": "Mild degenerative changes of the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2120_IM-0747",
+    "original_report": "The heart is normal in size. The mediastinum is unremarkable. The lungs are clear.",
+    "classification": {
+      "lung": "The lungs are clear.",
+      "heart": "The heart is normal in size.",
+      "mediastinal": "The mediastinum is unremarkable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3177_IM-1497",
+    "original_report": "The lungs are clear. There is hyperinflation of the lungs. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. mild arthritic changes of the spine are present.",
+    "classification": {
+      "lung": "The lungs are clear. There is hyperinflation of the lungs. There is no pleural effusion or pneumothorax.",
+      "heart": "The heart is normal.",
+      "mediastinal": "The mediastinum is normal.",
+      "bone": "Mild arthritic changes of the spine are present.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2060_IM-0698",
+    "original_report": "There is prominence of the left hilum which may represent adenopathy or engorged vasculature. Cardiac silhouette is within normal limits of size and contour. No pneumothorax or large pleural effusion. No acute bone abnormality.",
+    "classification": {
+      "lung": "No pneumothorax or large pleural effusion.",
+      "heart": "Cardiac silhouette is within normal limits of size and contour.",
+      "mediastinal": "Prominence of the left hilum which may represent adenopathy or engorged vasculature.",
+      "bone": "No acute bone abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2668_IM-1147",
+    "original_report": "The heart is normal in size. The mediastinum is unremarkable. The lungs are clear.",
+    "classification": {
+      "lung": "The lungs are clear.",
+      "heart": "The heart is normal in size.",
+      "mediastinal": "The mediastinum is unremarkable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2735_IM-1189",
+    "original_report": "Both lungs are clear and expanded. Heart and mediastinum normal.",
+    "classification": {
+      "lung": "Both lungs are clear and expanded.",
+      "heart": "Heart is normal.",
+      "mediastinal": "Mediastinum is normal.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2715_IM-1180",
+    "original_report": "Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. There is a 9 mm right lower lobe pulmonary nodule, not seen on prior exams. There are posttraumatic deformities of the right posterior ribs. No focal airspace consolidation or effusion. No pneumothorax.",
+    "classification": {
+      "lung": "Pulmonary vascularity is normal. There is a 9 mm right lower lobe pulmonary nodule, not seen on prior exams. No focal airspace consolidation or effusion. No pneumothorax.",
+      "heart": "Heart size is normal.",
+      "mediastinal": "Mediastinal contour is normal.",
+      "bone": "Posttraumatic deformities of the right posterior ribs.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3061_IM-1427",
+    "original_report": "The heart size and pulmonary vascularity appear within normal units. No pleural effusion or pneumothorax is seen. Bandlike opacities are present in the right base consistent with areas of atelectasis. Remainder of the lungs appear clear.",
+    "classification": {
+      "lung": "No pleural effusion or pneumothorax is seen. Bandlike opacities are present in the right base consistent with areas of atelectasis. Remainder of the lungs appear clear. Pulmonary vascularity appear within normal units.",
+      "heart": "Heart size appears within normal units.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR619_IM-2202",
+    "original_report": "There has been interval sternotomy with intact midline sternotomy XXXX. The heart is near top normal in size with unfolding of the aorta. The lungs are grossly clear with no focal airspace opacity, pleural effusion, or pneumothorax. The osseous structures are grossly normal.",
+    "classification": {
+      "lung": "The lungs are grossly clear with no focal airspace opacity, pleural effusion, or pneumothorax.",
+      "heart": "The heart is near top normal in size with unfolding of the aorta.",
+      "mediastinal": "Interval sternotomy with intact midline sternotomy XXXX.",
+      "bone": "The osseous structures are grossly normal.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2999_IM-1383-0001",
+    "original_report": "The cardiac silhouette is at the upper limits of normal for size. Patchy opacities are demonstrated in the left lung base. No focal pulmonary consolidation. No pneumothorax. Minimal degenerative changes of the thoracic spine.",
+    "classification": {
+      "lung": "Patchy opacities are demonstrated in the left lung base. No focal pulmonary consolidation. No pneumothorax.",
+      "heart": "The cardiac silhouette is at the upper limits of normal for size.",
+      "mediastinal": "",
+      "bone": "Minimal degenerative changes of the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3727_IM-1863",
+    "original_report": "Lung volumes are low. No focal infiltrates. Heart and pulmonary XXXX normal. An indwelling catheter from the left has its tip at the superior XXXX XXXX.",
+    "classification": {
+      "lung": "Lung volumes are low. No focal infiltrates. Pulmonary XXXX normal.",
+      "heart": "Heart XXXX normal.",
+      "mediastinal": "An indwelling catheter from the left has its tip at the superior XXXX XXXX.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR274_IM-1194",
+    "original_report": "The cardiomediastinal silhouette is within normal limits for appearance. The thoracic aorta is tortuous and calcified. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. Degenerative endplate changes of the thoracic spine with an age-indeterminate, mild wedge XXXX deformity of a midthoracic vertebral body.",
+    "classification": {
+      "lung": "No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion.",
+      "heart": "Cardiomediastinal silhouette is within normal limits for appearance.",
+      "mediastinal": "The thoracic aorta is tortuous and calcified.",
+      "bone": "Degenerative endplate changes of the thoracic spine with an age-indeterminate, mild wedge XXXX deformity of a midthoracic vertebral body.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2988_IM-1375",
+    "original_report": "The cardiomediastinal silhouette is normal size and configuration. Pulmonary vasculature within normal limits. The lungs are well-aerated. There is no pneumothorax, pleural effusion, or focal consolidation.",
+    "classification": {
+      "lung": "The lungs are well-aerated. There is no pneumothorax, pleural effusion, or focal consolidation. Pulmonary vasculature within normal limits.",
+      "heart": "The cardiomediastinal silhouette is normal size and configuration.",
+      "mediastinal": "The cardiomediastinal silhouette is normal size and configuration.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2484_IM-1012",
+    "original_report": "Frontal and lateral views of the chest with overlying external cardiac monitor leads show normal size and configuration of the cardiac silhouette. There are scattered nodular opacities, XXXX calcified granulomas. No XXXX focal airspace consolidation or pleural effusion.",
+    "classification": {
+      "lung": "Scattered nodular opacities, XXXX calcified granulomas. No XXXX focal airspace consolidation or pleural effusion.",
+      "heart": "Normal size and configuration of the cardiac silhouette.",
+      "mediastinal": "",
+      "bone": "",
+      "others": "Frontal and lateral views of the chest with overlying external cardiac monitor leads."
+    }
+  },
+  {
+    "id": "CXR3166_IM-1491",
+    "original_report": "Heart size normal. No pneumothorax, pleural effusion, or focal airspace disease. Nodular densities consistent with chronic granulomatous disease. Bony structures appear intact.",
+    "classification": {
+      "lung": "No pneumothorax, pleural effusion, or focal airspace disease. Nodular densities consistent with chronic granulomatous disease.",
+      "heart": "Heart size normal.",
+      "mediastinal": "",
+      "bone": "Bony structures appear intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1954_IM-0622",
+    "original_report": "The heart is normal in size. The mediastinum is unremarkable. The lungs are clear.",
+    "classification": {
+      "lung": "The lungs are clear.",
+      "heart": "The heart is normal in size.",
+      "mediastinal": "The mediastinum is unremarkable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR388_IM-1968",
+    "original_report": "Cardiomegaly is unchanged. Stable superior mediastinal contour with tortuous calcified aorta. Normal pulmonary vascularity. No focal air space consolidation, pleural effusion, or pneumothorax. No acute bony abnormality. Changes of prior right mastectomy.",
+    "classification": {
+      "lung": "Normal pulmonary vascularity. No focal air space consolidation, pleural effusion, or pneumothorax.",
+      "heart": "Cardiomegaly is unchanged.",
+      "mediastinal": "Stable superior mediastinal contour with tortuous calcified aorta.",
+      "bone": "No acute bony abnormality.",
+      "others": "Changes of prior right mastectomy."
+    }
+  },
+  {
+    "id": "CXR2832_IM-1249",
+    "original_report": "There is stable cardiomegaly. The mediastinum is unremarkable. Atherosclerotic calcifications are present within the thoracic aorta. There is no pleural effusion, pneumothorax, or focal airspace disease. Chronic degenerative changes are present in the thoracic spine.",
+    "classification": {
+      "lung": "No pleural effusion, pneumothorax, or focal airspace disease.",
+      "heart": "Stable cardiomegaly.",
+      "mediastinal": "Mediastinum is unremarkable. Atherosclerotic calcifications are present within the thoracic aorta.",
+      "bone": "Chronic degenerative changes are present in the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2462_IM-0995",
+    "original_report": "There is stable cardiomegaly. Aorta is calcified and tortuous. There are multiple pleural calcifications XXXX representing prior asbestos exposure. These appear unchanged. There is no pneumothorax, pleural effusion, or XXXX focal airspace consolidation.",
+    "classification": {
+      "lung": "There are multiple pleural calcifications XXXX representing prior asbestos exposure. These appear unchanged. There is no pneumothorax, pleural effusion, or XXXX focal airspace consolidation.",
+      "heart": "There is stable cardiomegaly.",
+      "mediastinal": "Aorta is calcified and tortuous.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2998_IM-1382",
+    "original_report": "The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality. No displaced rib fractures identified.",
+    "classification": {
+      "lung": "The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.",
+      "heart": "Cardio mediastinal silhouette is unremarkable.",
+      "mediastinal": "Cardio mediastinal silhouette is unremarkable.",
+      "bone": "Visualized osseous structures of the thorax are without acute abnormality. No displaced rib fractures identified.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR441_IM-2078",
+    "original_report": "Mediastinal contours are normal. Heart size is within normal limits. Multiple scattered calcified pulmonary nodules, XXXX sequela of prior granulomatous disease. Otherwise lungs are clear.. There is no pneumothorax or large pleural effusion. No bony abnormality.",
+    "classification": {
+      "lung": "Multiple scattered calcified pulmonary nodules, XXXX sequela of prior granulomatous disease. Otherwise lungs are clear. There is no pneumothorax or large pleural effusion.",
+      "heart": "Heart size is within normal limits.",
+      "mediastinal": "Mediastinal contours are normal.",
+      "bone": "No bony abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR799_IM-2333",
+    "original_report": "Heart size and mediastinal contours are within normal limits. No focal airspace consolidation. No suspicious pulmonary nodules or masses. No evidence of pleural effusion or pneumothorax. No evidence of acute osseous abnormality.",
+    "classification": {
+      "lung": "No focal airspace consolidation. No suspicious pulmonary nodules or masses. No evidence of pleural effusion or pneumothorax.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "Mediastinal contours within normal limits.",
+      "bone": "No evidence of acute osseous abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3525_IM-1722",
+    "original_report": "Heart size normal. No pneumothorax, pleural effusion, or focal airspace disease. The visualized bony structures appear intact. There is a XXXX radiodensity overlying the right shoulder which is XXXX external to the patient however clinical correlation recommended. Scattered calcified granulomas.",
+    "classification": {
+      "lung": "No pneumothorax, pleural effusion, or focal airspace disease. Scattered calcified granulomas.",
+      "heart": "Heart size normal.",
+      "mediastinal": "",
+      "bone": "The visualized bony structures appear intact.",
+      "others": "There is a XXXX radiodensity overlying the right shoulder which is XXXX external to the patient however clinical correlation recommended."
+    }
+  },
+  {
+    "id": "CXR3319_IM-1588",
+    "original_report": "Heart size and pulmonary vascular engorgement appear within limits of normal. Mediastinal contour is unremarkable. No focal consolidation, pleural effusion, or pneumothorax identified. Multilevel degenerative changes are noted within the thoracic spine.",
+    "classification": {
+      "lung": "No focal consolidation, pleural effusion, or pneumothorax identified.",
+      "heart": "Heart size and pulmonary vascular engorgement appear within limits of normal.",
+      "mediastinal": "Mediastinal contour is unremarkable.",
+      "bone": "Multilevel degenerative changes are noted within the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR839_IM-2363",
+    "original_report": "Heart size normal. No pleural effusions or pneumothorax. Lungs are clear. Soft tissues and XXXX are unremarkable.",
+    "classification": {
+      "lung": "No pleural effusions or pneumothorax. Lungs are clear.",
+      "heart": "Heart size normal.",
+      "mediastinal": "",
+      "bone": "",
+      "others": "Soft tissues and XXXX are unremarkable."
+    }
+  },
+  {
+    "id": "CXR2381_IM-0941",
+    "original_report": "Cardiac and mediastinal contours are within normal limits. Granulomatous calcifications are present. The lungs are otherwise clear. Bony structures are intact. Prior cholecystectomy.",
+    "classification": {
+      "lung": "The lungs are otherwise clear.",
+      "heart": "Cardiac contours are within normal limits.",
+      "mediastinal": "Mediastinal contours are within normal limits. Granulomatous calcifications are present.",
+      "bone": "Bony structures are intact.",
+      "others": "Prior cholecystectomy."
+    }
+  },
+  {
+    "id": "CXR1067_IM-0048",
+    "original_report": "Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. No suspicious pulmonary nodules or masses. Bony thorax and soft tissues grossly unremarkable.",
+    "classification": {
+      "lung": "Lungs are clear without focal consolidation, effusion, or pneumothorax. No suspicious pulmonary nodules or masses.",
+      "heart": "Normal heart size.",
+      "mediastinal": "",
+      "bone": "Bony thorax grossly unremarkable.",
+      "others": "Soft tissues grossly unremarkable."
+    }
+  },
+  {
+    "id": "CXR2167_IM-0783",
+    "original_report": "There is hyperexpansion with mild flattening of diaphragm. Cardiomediastinal silhouette is normal. Pulmonary vasculature and XXXX are normal. No consolidation, pneumothorax or large pleural effusion. Osseous structures and soft tissues are normal. Contrast retained within the renal collecting XXXX.",
+    "classification": {
+      "lung": "There is hyperexpansion with mild flattening of diaphragm. Pulmonary vasculature and XXXX are normal. No consolidation, pneumothorax or large pleural effusion.",
+      "heart": "Cardiomediastinal silhouette is normal.",
+      "mediastinal": "Cardiomediastinal silhouette is normal.",
+      "bone": "Osseous structures are normal.",
+      "others": "Soft tissues are normal. Contrast retained within the renal collecting XXXX."
+    }
+  },
+  {
+    "id": "CXR2769_IM-1212",
+    "original_report": "Cardiomediastinal silhouette are normal in size and contour. Again demonstrated are biapical bullous emphysematous changes. No focal consolidation, pneumothorax, or pleural effusion. Mild multilevel degenerative changes of the thoracic spine.",
+    "classification": {
+      "lung": "Biapical bullous emphysematous changes. No focal consolidation, pneumothorax, or pleural effusion.",
+      "heart": "Cardiomediastinal silhouette are normal in size and contour.",
+      "mediastinal": "Cardiomediastinal silhouette are normal in size and contour.",
+      "bone": "Mild multilevel degenerative changes of the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2856_IM-1263",
+    "original_report": "Normal heart size. No focal airspace consolidation, pneumothorax, pleural effusion, or pulmonary edema. No focal bony abnormality.",
+    "classification": {
+      "lung": "No focal airspace consolidation, pneumothorax, pleural effusion, or pulmonary edema.",
+      "heart": "Normal heart size.",
+      "mediastinal": "",
+      "bone": "No focal bony abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2759_IM-1207",
+    "original_report": "The cardiomediastinal silhouette is within normal limits for appearance. No focal air is prominent consolidation. No pneumothorax. No large pleural effusion. Minimal degenerative changes of the thoracic spine with a mild wedge XXXX deformity of a midthoracic vertebral body. This is age-indeterminate.",
+    "classification": {
+      "lung": "No focal air is prominent consolidation. No pneumothorax. No large pleural effusion.",
+      "heart": "Cardiomediastinal silhouette is within normal limits for appearance.",
+      "mediastinal": "Cardiomediastinal silhouette is within normal limits for appearance.",
+      "bone": "Minimal degenerative changes of the thoracic spine with a mild wedge XXXX deformity of a midthoracic vertebral body. This is age-indeterminate.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2432_IM-0974",
+    "original_report": "The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings.",
+    "classification": {
+      "lung": "The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion. Pulmonary vasculature are within normal limits in size.",
+      "heart": "Cardiomediastinal silhouette within normal limits in size.",
+      "mediastinal": "Cardiomediastinal silhouette within normal limits in size.",
+      "bone": "No acute bony findings.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR752_IM-2305",
+    "original_report": "The lungs appear clear. Scattered calcified granulomas are stable as are calcified mediastinal lymph XXXX. The heart and pulmonary XXXX are normal. Mediastinal contours are normal. Pleural spaces are clear.",
+    "classification": {
+      "lung": "The lungs appear clear. Pleural spaces are clear.",
+      "heart": "The heart and pulmonary XXXX are normal.",
+      "mediastinal": "Scattered calcified granulomas are stable as are calcified mediastinal lymph XXXX. Mediastinal contours are normal.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1835_IM-0539",
+    "original_report": "Low lung volumes. The heart size and mediastinal silhouette are within normal limits for contour. The lungs are clear. No pneumothorax or pleural effusions. The XXXX are intact.",
+    "classification": {
+      "lung": "Low lung volumes. The lungs are clear. No pneumothorax or pleural effusions.",
+      "heart": "The heart size is within normal limits for contour.",
+      "mediastinal": "The mediastinal silhouette is within normal limits for contour.",
+      "bone": "",
+      "others": "The XXXX are intact."
+    }
+  },
+  {
+    "id": "CXR1407_IM-0260",
+    "original_report": "Cardiac and mediastinal contours are within normal limits. Right lung base granuloma. The lungs are otherwise clear. Thoracic spondylosis.",
+    "classification": {
+      "lung": "Right lung base granuloma. The lungs are otherwise clear.",
+      "heart": "Cardiac contours are within normal limits.",
+      "mediastinal": "Mediastinal contours are within normal limits.",
+      "bone": "Thoracic spondylosis.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR273_IM-1188",
+    "original_report": "Heart size mildly to moderately enlarged. Mild right hemidiaphragm elevation with mild bronchovascular crowding, right greater than left, indistinct vascular margination. No definite focal alveolar consolidation, no pleural effusion XXXX demonstrated.",
+    "classification": {
+      "lung": "Mild right hemidiaphragm elevation with mild bronchovascular crowding, right greater than left, indistinct vascular margination. No definite focal alveolar consolidation, no pleural effusion XXXX demonstrated.",
+      "heart": "Heart size mildly to moderately enlarged.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1248_IM-0168",
+    "original_report": "Heart size is normal. No focal consolidations. There are degenerative changes throughout the midlower thoracic spine. No pneumothorax or pleural effusion.",
+    "classification": {
+      "lung": "No focal consolidations. No pneumothorax or pleural effusion.",
+      "heart": "Heart size is normal.",
+      "mediastinal": "",
+      "bone": "There are degenerative changes throughout the midlower thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR319_IM-1505",
+    "original_report": "Normal heart size. Clear lungs. No pneumothorax. No pleural effusion.",
+    "classification": {
+      "lung": "Clear lungs. No pneumothorax. No pleural effusion.",
+      "heart": "Normal heart size.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2567_IM-1069",
+    "original_report": "The heart is normal in size. The mediastinum is unremarkable. The lungs are clear.",
+    "classification": {
+      "lung": "The lungs are clear.",
+      "heart": "The heart is normal in size.",
+      "mediastinal": "The mediastinum is unremarkable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2665_IM-1145",
+    "original_report": "No focal lung consolidation. Heart size and pulmonary vascularity are within normal limits. No pneumothorax or pleural effusion. Osseous structures are grossly intact.",
+    "classification": {
+      "lung": "No focal lung consolidation. No pneumothorax or pleural effusion.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "Pulmonary vascularity within normal limits.",
+      "bone": "Osseous structures are grossly intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3633_IM-1800",
+    "original_report": "Degenerative changes of the thoracic spine. Heart size normal. Lungs are clear. No pneumothorax or pleural effusion. Low lung volumes.",
+    "classification": {
+      "lung": "Lungs are clear. No pneumothorax or pleural effusion. Low lung volumes.",
+      "heart": "Heart size normal.",
+      "mediastinal": "",
+      "bone": "Degenerative changes of the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR283_IM-1248",
+    "original_report": "The lungs are clear. The cardiomediastinal silhouette is within normal limits. No pleural effusion is identified.",
+    "classification": {
+      "lung": "The lungs are clear. No pleural effusion is identified.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette is within normal limits.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1037_IM-0029",
+    "original_report": "The heart is normal size. The mediastinum is unremarkable. A tortuous, calcified thoracic aorta is present. The lungs are hyperexpanded, consistent with emphysema. There is no pleural effusion, pneumothorax, or focal airspace disease. The XXXX are unremarkable.",
+    "classification": {
+      "lung": "The lungs are hyperexpanded, consistent with emphysema. There is no pleural effusion, pneumothorax, or focal airspace disease.",
+      "heart": "The heart is normal size.",
+      "mediastinal": "The mediastinum is unremarkable. A tortuous, calcified thoracic aorta is present.",
+      "bone": "",
+      "others": "The XXXX are unremarkable."
+    }
+  },
+  {
+    "id": "CXR345_IM-1672",
+    "original_report": "Cardiomediastinal silhouette and pulmonary vasculature are within normal limits. Lungs are clear. No pneumothorax or pleural effusion. No acute osseous findings. XXXX degenerative changes of the thoracic spine.",
+    "classification": {
+      "lung": "Lungs are clear. No pneumothorax or pleural effusion. Pulmonary vasculature are within normal limits.",
+      "heart": "Cardiomediastinal silhouette within normal limits.",
+      "mediastinal": "Cardiomediastinal silhouette within normal limits.",
+      "bone": "No acute osseous findings. XXXX degenerative changes of the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2930_IM-1333",
+    "original_report": "There are T-spine osteophytes. The cardiomediastinal silhouette and pulmonary vasculature are within normal limits. There is no pneumothorax or pleural effusion. There are no focal areas of consolidation.",
+    "classification": {
+      "lung": "Pulmonary vasculature are within normal limits. There is no pneumothorax or pleural effusion. There are no focal areas of consolidation.",
+      "heart": "Cardiomediastinal silhouette within normal limits.",
+      "mediastinal": "Cardiomediastinal silhouette within normal limits.",
+      "bone": "There are T-spine osteophytes.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1666_IM-0440-0001",
+    "original_report": "The cardiac silhouette is mildly enlarged. There are scattered bilateral XXXX opacities, most notably in the right middle lobe, XXXX XXXX of subsegmental atelectasis. No pleural effusion. No pneumothorax is identified. There are diffuse degenerative changes of the spine.",
+    "classification": {
+      "lung": "Scattered bilateral XXXX opacities, most notably in the right middle lobe, XXXX XXXX of subsegmental atelectasis. No pleural effusion. No pneumothorax is identified.",
+      "heart": "Cardiac silhouette is mildly enlarged.",
+      "mediastinal": "",
+      "bone": "Diffuse degenerative changes of the spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR909_IM-2414",
+    "original_report": "The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.",
+    "classification": {
+      "lung": "The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.",
+      "heart": "",
+      "mediastinal": "Cardio mediastinal silhouette is unremarkable.",
+      "bone": "Visualized osseous structures of the thorax are without acute abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3261_IM-1547",
+    "original_report": "Heart size normal. Lungs are clear. XXXX are normal. No pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses.",
+    "classification": {
+      "lung": "Lungs are clear. No pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses.",
+      "heart": "Heart size normal.",
+      "mediastinal": "",
+      "bone": "",
+      "others": "XXXX are normal."
+    }
+  },
+  {
+    "id": "CXR26_IM-1090",
+    "original_report": "The cardiac contours are normal. The lungs are clear. Thoracic spondylosis.",
+    "classification": {
+      "lung": "The lungs are clear.",
+      "heart": "The cardiac contours are normal.",
+      "mediastinal": "",
+      "bone": "Thoracic spondylosis.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR85_IM-2372",
+    "original_report": "There are scattered calcified granulomas. No focal infiltrate. No pleural effusion or pneumothorax. Heart size and mediastinal contour are within normal limits. There are degenerative changes of the spine.",
+    "classification": {
+      "lung": "Scattered calcified granulomas. No focal infiltrate. No pleural effusion or pneumothorax.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "Mediastinal contour within normal limits.",
+      "bone": "Degenerative changes of the spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1702_IM-0463",
+    "original_report": "No acute osseous abnormality. Soft tissues are within normal limits. Borderline enlargement of the heart. Normal hilar vasculature. No focal area of consolidation, pleural effusion, or pneumothorax.",
+    "classification": {
+      "lung": "No focal area of consolidation, pleural effusion, or pneumothorax. Normal hilar vasculature.",
+      "heart": "Borderline enlargement of the heart.",
+      "mediastinal": "Normal hilar vasculature.",
+      "bone": "No acute osseous abnormality.",
+      "others": "Soft tissues are within normal limits."
+    }
+  },
+  {
+    "id": "CXR382_IM-1927",
+    "original_report": "Stable, normal cardiac size, mediastinum, and central pulmonary vasculature. Marked bullous emphysematous changes and traction bronchiectasis, again most notable involving the bilateral upper lobes. Stable prominent ovoid opacity (4.3 x 2.8 XXXX) XXXX a large left upper lobe XXXX, XXXX reflecting a superimposed aspergilloma-as more readily demonstrated on the previous CT chest study from XXXX. No XXXX areas of alveolar airspace consolidation are identified. No evidence of pleural effusion or pneumothorax.",
+    "classification": {
+      "lung": "Marked bullous emphysematous changes and traction bronchiectasis, most notable involving the bilateral upper lobes. No areas of alveolar airspace consolidation are identified. No evidence of pleural effusion or pneumothorax. Stable prominent ovoid opacity (4.3 x 2.8 XXXX) XXXX a large left upper lobe XXXX, XXXX reflecting a superimposed aspergilloma-as more readily demonstrated on the previous CT chest study from XXXX.",
+      "heart": "Stable, normal cardiac size.",
+      "mediastinal": "Stable mediastinum and central pulmonary vasculature.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3535_IM-1728-0001",
+    "original_report": "The lungs are clear. The heart and pulmonary XXXX are normal. Pleural spaces are clear. Mediastinal contours are normal.",
+    "classification": {
+      "lung": "The lungs are clear. Pleural spaces are clear.",
+      "heart": "The heart and pulmonary XXXX are normal.",
+      "mediastinal": "Mediastinal contours are normal.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1405_IM-0259",
+    "original_report": "There is scarring in the right mid and upper lung zone with surgical clips identified as well. There is no pleural effusion or pneumothorax. The heart is not significantly enlarged. There are atherosclerotic changes of the aorta. Arthritic changes of the skeletal structures are noted.",
+    "classification": {
+      "lung": "Scarring in the right mid and upper lung zone with surgical clips identified as well. No pleural effusion or pneumothorax.",
+      "heart": "Heart is not significantly enlarged.",
+      "mediastinal": "Atherosclerotic changes of the aorta.",
+      "bone": "Arthritic changes of the skeletal structures.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1682_IM-0449",
+    "original_report": "There is a lobulated contour to the right paratracheal stripe, possibly consistent with a vascular structure or lymph XXXX. The cardiomediastinal silhouette is otherwise within normal limits for appearance. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. The thoracic spine appears intact.",
+    "classification": {
+      "lung": "No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion.",
+      "heart": "",
+      "mediastinal": "There is a lobulated contour to the right paratracheal stripe, possibly consistent with a vascular structure or lymph XXXX. The cardiomediastinal silhouette is otherwise within normal limits for appearance.",
+      "bone": "The thoracic spine appears intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1947_IM-0616",
+    "original_report": "Heart size within normal limits, stable mediastinal contours. No focal alveolar consolidation, no definite pleural effusion seen. A dense nodule in the right base suggests a previous granulomatous process. No typical findings of pulmonary edema. No pneumothorax.",
+    "classification": {
+      "lung": "No focal alveolar consolidation, no definite pleural effusion seen. A dense nodule in the right base suggests a previous granulomatous process. No typical findings of pulmonary edema. No pneumothorax.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "Stable mediastinal contours.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2818_IM-1242",
+    "original_report": "There is stable cavity in the right apex, XXXX related to prior tuberculosis infection. There is increased opacity in the left upper lobe, peripherally. There is pulmonary hyperexpansion. There is no large effusion or pneumothorax.",
+    "classification": {
+      "lung": "Stable cavity in the right apex, XXXX related to prior tuberculosis infection. Increased opacity in the left upper lobe, peripherally. Pulmonary hyperexpansion. No large effusion or pneumothorax.",
+      "heart": "",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR791_IM-2330",
+    "original_report": "Stable cardiomediastinal silhouette. Tortuous aorta. The lungs are clear bilaterally. No large pleural effusion or pneumothorax. The XXXX are intact.",
+    "classification": {
+      "lung": "The lungs are clear bilaterally. No large pleural effusion or pneumothorax.",
+      "heart": "Stable cardiomediastinal silhouette.",
+      "mediastinal": "Tortuous aorta.",
+      "bone": "The XXXX are intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3058_IM-1425",
+    "original_report": "Left midlung opacity noted, not visualized on prior. Heart size within normal limits. No pleural effusions. No evidence of pneumothorax. Osseous structures intact.",
+    "classification": {
+      "lung": "Left midlung opacity noted, not visualized on prior. No pleural effusions. No evidence of pneumothorax.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "",
+      "bone": "Osseous structures intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1810_IM-0524",
+    "original_report": "The heart is normal size. The mediastinum is unremarkable. There is no pleural effusion, pneumothorax, or focal airspace disease. The XXXX are unremarkable.",
+    "classification": {
+      "lung": "No pleural effusion, pneumothorax, or focal airspace disease.",
+      "heart": "Heart is normal size.",
+      "mediastinal": "Mediastinum is unremarkable.",
+      "bone": "",
+      "others": "The XXXX are unremarkable."
+    }
+  },
+  {
+    "id": "CXR2351_IM-0917",
+    "original_report": "The heart is normal in size and contour. Scattered calcifications are noted, compatible with prior granulomatous disease. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.",
+    "classification": {
+      "lung": "The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.",
+      "heart": "The heart is normal in size and contour.",
+      "mediastinal": "Scattered calcifications are noted, compatible with prior granulomatous disease.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1055_IM-0040",
+    "original_report": "The heart is normal in size and contour. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.",
+    "classification": {
+      "lung": "The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.",
+      "heart": "The heart is normal in size and contour.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR731_IM-2291",
+    "original_report": "The lungs are clear, and without focal air space opacity. The cardiomediastinal silhouette is normal in size and contour. There is no pneumothorax or large pleural effusion.",
+    "classification": {
+      "lung": "The lungs are clear, and without focal air space opacity. There is no pneumothorax or large pleural effusion.",
+      "heart": "The cardiomediastinal silhouette is normal in size and contour.",
+      "mediastinal": "The cardiomediastinal silhouette is normal in size and contour.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2663_IM-1144",
+    "original_report": "The lungs are clear. No pleural effusion or pneumothorax is identified. The heart and mediastinum are normal. The skeletal structures and soft tissues are normal.",
+    "classification": {
+      "lung": "The lungs are clear. No pleural effusion or pneumothorax is identified.",
+      "heart": "The heart is normal.",
+      "mediastinal": "The mediastinum is normal.",
+      "bone": "The skeletal structures are normal.",
+      "others": "The soft tissues are normal."
+    }
+  },
+  {
+    "id": "CXR2320_IM-0894",
+    "original_report": "The cardio mediastinal silhouette, pulmonary vascular pattern are within normal limits. No pneumothorax. No pneumonia. No pleural effusion. Mild degenerative changes mid thoracic spine.",
+    "classification": {
+      "lung": "No pneumothorax. No pneumonia. No pleural effusion. Pulmonary vascular pattern are within normal limits.",
+      "heart": "",
+      "mediastinal": "Cardio mediastinal silhouette within normal limits.",
+      "bone": "Mild degenerative changes mid thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3926_IM-2000",
+    "original_report": "The trachea is midline. The heart XXXX is large, unchanged from prior exam. Slightly widened mediastinum, secondary to cardiomegaly and a tortuous aorta, is accentuated by AP portable technique. There are low lung volumes causing bibasilar atelectasis and bronchovascular crowding. The lungs do not demonstrate focal infiltrate or effusion. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities.",
+    "classification": {
+      "lung": "Trachea is midline. There are low lung volumes causing bibasilar atelectasis and bronchovascular crowding. The lungs do not demonstrate focal infiltrate or effusion. There is no pneumothorax.",
+      "heart": "The heart XXXX is large, unchanged from prior exam.",
+      "mediastinal": "Slightly widened mediastinum, secondary to cardiomegaly and a tortuous aorta, is accentuated by AP portable technique.",
+      "bone": "The visualized bony structures reveal no acute abnormalities.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1291_IM-0190",
+    "original_report": "Cardiac and mediastinal contours are within normal limits. The lungs are clear. Mild prominence left hilar contour. Bony structures are intact.",
+    "classification": {
+      "lung": "The lungs are clear.",
+      "heart": "Cardiac contours are within normal limits.",
+      "mediastinal": "Mediastinal contours are within normal limits. Mild prominence left hilar contour.",
+      "bone": "Bony structures are intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR4_IM-2050",
+    "original_report": "There are diffuse bilateral interstitial and alveolar opacities consistent with chronic obstructive lung disease and bullous emphysema. There are irregular opacities in the left lung apex, that could represent a cavitary lesion in the left lung apex.There are streaky opacities in the right upper lobe, XXXX scarring. The cardiomediastinal silhouette is normal in size and contour. There is no pneumothorax or large pleural effusion.",
+    "classification": {
+      "lung": "Diffuse bilateral interstitial and alveolar opacities consistent with chronic obstructive lung disease and bullous emphysema. Irregular opacities in the left lung apex, that could represent a cavitary lesion in the left lung apex. Streaky opacities in the right upper lobe, XXXX scarring. No pneumothorax or large pleural effusion.",
+      "heart": "Cardiomediastinal silhouette is normal in size and contour.",
+      "mediastinal": "Cardiomediastinal silhouette is normal in size and contour.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2428_IM-0970",
+    "original_report": "Lungs mildly hyperinflated with flattened posterior diaphragm and increased retrosternal airspace. No focal alveolar consolidation, no definite pleural effusion seen. Left hilar calcifications and dense left lower lobe nodules suggest a previous granulomatous process. Overall heart size within normal limits with prominent right atrial convexity, no typical findings of pulmonary edema. No pneumothorax.",
+    "classification": {
+      "lung": "Lungs mildly hyperinflated with flattened posterior diaphragm and increased retrosternal airspace. No focal alveolar consolidation, no definite pleural effusion seen. Left hilar calcifications and dense left lower lobe nodules suggest a previous granulomatous process. No pneumothorax.",
+      "heart": "Overall heart size within normal limits with prominent right atrial convexity, no typical findings of pulmonary edema.",
+      "mediastinal": "Left hilar calcifications and dense left lower lobe nodules suggest a previous granulomatous process.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3135_IM-1474",
+    "original_report": "The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardiomediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.",
+    "classification": {
+      "lung": "The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.",
+      "heart": "Cardiomediastinal silhouette is unremarkable.",
+      "mediastinal": "Cardiomediastinal silhouette is unremarkable.",
+      "bone": "Visualized osseous structures of the thorax are without acute abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1502_IM-0328",
+    "original_report": "The lungs are clear. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The skeletal structures are normal.",
+    "classification": {
+      "lung": "The lungs are clear. There is no pleural effusion or pneumothorax.",
+      "heart": "The heart is normal.",
+      "mediastinal": "The mediastinum is normal.",
+      "bone": "The skeletal structures are normal.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR977_IM-2465",
+    "original_report": "The heart is normal in size and contour. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.",
+    "classification": {
+      "lung": "The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.",
+      "heart": "The heart is normal in size and contour.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2469_IM-0999",
+    "original_report": "There is mild XXXX opacification over both XXXX, XXXX secondary to soft tissue attenuation. There are no focal air space opacities. No pleural effusion or pneumothorax. Cardiomediastinal silhouette is within normal limits. Trachea is midline. No free subdiaphragmatic air.",
+    "classification": {
+      "lung": "Mild XXXX opacification over both XXXX, XXXX secondary to soft tissue attenuation. No focal air space opacities. No pleural effusion or pneumothorax. Trachea is midline.",
+      "heart": "Cardiomediastinal silhouette is within normal limits.",
+      "mediastinal": "Cardiomediastinal silhouette is within normal limits. Trachea is midline.",
+      "bone": "",
+      "others": "No free subdiaphragmatic air."
+    }
+  },
+  {
+    "id": "CXR2260_IM-0852",
+    "original_report": "The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.",
+    "classification": {
+      "lung": "No focal consolidation, pneumothorax or large pleural effusion.",
+      "heart": "Cardiomediastinal silhouette is normal in size and contour.",
+      "mediastinal": "Cardiomediastinal silhouette is normal in size and contour.",
+      "bone": "Negative for acute bone abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2083_IM-0715",
+    "original_report": "Lungs are clear bilaterally. Cardiac and mediastinal silhouettes are normal. Pulmonary vasculature is normal. No pneumothorax or pleural effusion. No acute bony abnormality.",
+    "classification": {
+      "lung": "Lungs are clear bilaterally. Pulmonary vasculature is normal. No pneumothorax or pleural effusion.",
+      "heart": "Cardiac silhouette is normal.",
+      "mediastinal": "Mediastinal silhouette is normal.",
+      "bone": "No acute bony abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3840_IM-1941",
+    "original_report": "No acute osseous abnormality. Degenerative changes throughout the thoracic spine. Soft tissue structures are within normal limits. There is stable enlargement of the heart. Stable prominent mediastinal contours. Central vascular congestion. Mildly low lung volumes bilaterally. Bibasilar and left perihilar airspace opacities. XXXX bilateral pleural effusions. No pneumothorax.",
+    "classification": {
+      "lung": "Mildly low lung volumes bilaterally. Bibasilar and left perihilar airspace opacities. XXXX bilateral pleural effusions. No pneumothorax. Central vascular congestion.",
+      "heart": "There is stable enlargement of the heart.",
+      "mediastinal": "Stable prominent mediastinal contours.",
+      "bone": "No acute osseous abnormality. Degenerative changes throughout the thoracic spine.",
+      "others": "Soft tissue structures are within normal limits."
+    }
+  },
+  {
+    "id": "CXR3942_IM-2013",
+    "original_report": "Cardiac silhouette is at the upper limits of normal. Lungs are clear bilaterally. There is no pleural effusion or pneumothorax. Interval worsening of the moderate thoracolumbar dextroscoliosis with mild exaggeration of normal thoracic kyphosis.",
+    "classification": {
+      "lung": "Lungs are clear bilaterally. There is no pleural effusion or pneumothorax.",
+      "heart": "Cardiac silhouette is at the upper limits of normal.",
+      "mediastinal": "",
+      "bone": "Interval worsening of the moderate thoracolumbar dextroscoliosis with mild exaggeration of normal thoracic kyphosis.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3076_IM-1437",
+    "original_report": "Frontal view kyphotic and rotated, low lung volumes with bronchovascular crowding. Otherwise, no definite airspace consolidation or pleural effusion. Accounting for technical factors heart size XXXX borderline enlarged.",
+    "classification": {
+      "lung": "Frontal view kyphotic and rotated, low lung volumes with bronchovascular crowding. Otherwise, no definite airspace consolidation or pleural effusion.",
+      "heart": "Accounting for technical factors heart size XXXX borderline enlarged.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3468_IM-1684-0001",
+    "original_report": "Heart size is at the upper limits of normal. There is aortic atherosclerotic vascular calcification. The lungs remain hyperexpanded. There are biapical opacities, stable from the prior study. No XXXX focal airspace consolidation. No significant pleural effusion. No pneumothorax. There are mild degenerative changes of the spine.",
+    "classification": {
+      "lung": "The lungs remain hyperexpanded. There are biapical opacities, stable from the prior study. No XXXX focal airspace consolidation. No significant pleural effusion. No pneumothorax.",
+      "heart": "Heart size is at the upper limits of normal.",
+      "mediastinal": "There is aortic atherosclerotic vascular calcification.",
+      "bone": "There are mild degenerative changes of the spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1886_IM-0574",
+    "original_report": "Heart size and mediastinal contour within normal limits. Atherosclerotic calcification within the aorta. Calcified granulomas in bilateral XXXX and overlying the T9 vertebral body(lateral view). No focal airspace consolidation, pneumothorax, or large pleural effusion. Degenerative changes of thoracic spine. No acute osseous abnormality.",
+    "classification": {
+      "lung": "No focal airspace consolidation, pneumothorax, or large pleural effusion.",
+      "heart": "Heart size and mediastinal contour within normal limits.",
+      "mediastinal": "Atherosclerotic calcification within the aorta.",
+      "bone": "Calcified granulomas overlying the T9 vertebral body(lateral view). Degenerative changes of thoracic spine. No acute osseous abnormality.",
+      "others": "Calcified granulomas in bilateral XXXX."
+    }
+  },
+  {
+    "id": "CXR2964_IM-1357",
+    "original_report": "The lungs are clear. There is no focal airspace consolidation. No pleural effusion or pneumothorax. Heart size and mediastinal contour are normal.",
+    "classification": {
+      "lung": "The lungs are clear. There is no focal airspace consolidation. No pleural effusion or pneumothorax.",
+      "heart": "Heart size and mediastinal contour are normal.",
+      "mediastinal": "Heart size and mediastinal contour are normal.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2068_IM-0701",
+    "original_report": "The lungs are clear. The cardiomediastinal silhouette is within normal limits. No pneumothorax or pleural effusion.",
+    "classification": {
+      "lung": "The lungs are clear. No pneumothorax or pleural effusion.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette is within normal limits.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3074_IM-1435",
+    "original_report": "Sequelae of old granulomatous disease. Vague patchy opacity in the right midlung which may represent early pneumonia. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the spine.",
+    "classification": {
+      "lung": "Sequelae of old granulomatous disease. Vague patchy opacity in the right midlung which may represent early pneumonia. No pleural effusions or pneumothoraces.",
+      "heart": "Heart of normal size and contour.",
+      "mediastinal": "Mediastinum of normal size and contour.",
+      "bone": "Degenerative changes in the spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1124_IM-0081",
+    "original_report": "There are postoperative changes of sternotomy. Heart size is within normal limits. There is aortic atherosclerotic vascular calcification. The lungs are mildly hyperexpanded. There is no focal airspace consolidation. No pleural effusion or pneumothorax. There are diffuse degenerative changes of the spine.",
+    "classification": {
+      "lung": "The lungs are mildly hyperexpanded. There is no focal airspace consolidation. No pleural effusion or pneumothorax.",
+      "heart": "Heart size is within normal limits.",
+      "mediastinal": "There are postoperative changes of sternotomy. There is aortic atherosclerotic vascular calcification.",
+      "bone": "There are diffuse degenerative changes of the spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2961_IM-1355",
+    "original_report": "There is patchy opacity in the left base concerning for atelectasis versus pneumonitis. There is a curvilinear lucency that appears to be in the right hemidiaphragm and a small amount of free intraperitoneal air may be present. There is a small left pleural effusion. The heart is not significantly enlarged. There are atherosclerotic changes of the aorta. Arthritic changes of the skeletal structures are noted.",
+    "classification": {
+      "lung": "There is patchy opacity in the left base concerning for atelectasis versus pneumonitis. There is a small left pleural effusion.",
+      "heart": "The heart is not significantly enlarged.",
+      "mediastinal": "There are atherosclerotic changes of the aorta.",
+      "bone": "Arthritic changes of the skeletal structures are noted.",
+      "others": "There is a curvilinear lucency that appears to be in the right hemidiaphragm and a small amount of free intraperitoneal air may be present."
+    }
+  },
+  {
+    "id": "CXR971_IM-2461",
+    "original_report": "Normal heart size mediastinal contours. No focal airspace consolidation. No hyperexpansion of the lungs. No pleural effusion or pneumothorax.",
+    "classification": {
+      "lung": "No focal airspace consolidation. No hyperexpansion of the lungs. No pleural effusion or pneumothorax.",
+      "heart": "Normal heart size",
+      "mediastinal": "Normal mediastinal contours",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR322_IM-1521",
+    "original_report": "The cardiomediastinal silhouette and vasculature are within normal limits for size and contour. Chronic appearing interstitial markings The lungs are normally inflated and clear. Degenerative changes of the spine.",
+    "classification": {
+      "lung": "Chronic appearing interstitial markings. The lungs are normally inflated and clear.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette and vasculature are within normal limits for size and contour.",
+      "bone": "Degenerative changes of the spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1698_IM-0458",
+    "original_report": "Cardiac and mediastinal contours are unremarkable. Pulmonary vascularity is within normal limits. No focal air space opacities, pleural effusion, or pneumothorax. XXXX are grossly unremarkable.",
+    "classification": {
+      "lung": "Pulmonary vascularity is within normal limits. No focal air space opacities, pleural effusion, or pneumothorax.",
+      "heart": "Cardiac contours are unremarkable.",
+      "mediastinal": "Mediastinal contours are unremarkable.",
+      "bone": "",
+      "others": "XXXX are grossly unremarkable."
+    }
+  },
+  {
+    "id": "CXR3959_IM-2023",
+    "original_report": "The lungs are clear. Heart size is normal. No pneumothorax. Sternotomy XXXX overlie the heart.",
+    "classification": {
+      "lung": "The lungs are clear. No pneumothorax.",
+      "heart": "Heart size is normal.",
+      "mediastinal": "Sternotomy XXXX overlie the heart.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR414_IM-2057",
+    "original_report": "Normal heart size. Clear lungs. Multilevel degenerative disc disease with mild dextrocurvature near the thoracolumbar junction.",
+    "classification": {
+      "lung": "Clear lungs.",
+      "heart": "Normal heart size.",
+      "mediastinal": "",
+      "bone": "Multilevel degenerative disc disease with mild dextrocurvature near the thoracolumbar junction.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR970_IM-2460",
+    "original_report": "Lungs are clear bilaterally with no focal infiltrate, pleural effusion, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. XXXX and soft tissues are unremarkable.",
+    "classification": {
+      "lung": "Lungs are clear bilaterally with no focal infiltrate, pleural effusion, or pneumothoraces.",
+      "heart": "",
+      "mediastinal": "Cardiomediastinal silhouette is within normal limits.",
+      "bone": "XXXX and soft tissues are unremarkable.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR270_IM-1168",
+    "original_report": "The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings.",
+    "classification": {
+      "lung": "The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion. Pulmonary vasculature are within normal limits in size.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette is within normal limits in size.",
+      "bone": "There are no acute bony findings.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1261_IM-0177",
+    "original_report": "Mild cardiomegaly. Normal pulmonary vascularity. Tortuosity of the descending aorta. No focal infiltrate, pneumothorax or pleural effusion.",
+    "classification": {
+      "lung": "Normal pulmonary vascularity. No focal infiltrate, pneumothorax or pleural effusion.",
+      "heart": "Mild cardiomegaly.",
+      "mediastinal": "Tortuosity of the descending aorta.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2395_IM-0944",
+    "original_report": "Normal cardiomediastinal contours. Lungs are clear. No pneumothorax.",
+    "classification": {
+      "lung": "Lungs are clear. No pneumothorax.",
+      "heart": "Normal cardiomediastinal contours.",
+      "mediastinal": "Normal cardiomediastinal contours.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2398_IM-0947",
+    "original_report": "Patient is rotated. Mild cardiomegaly. Low lung volumes with elevated hemidiaphragms, greater on the right. This is identified on a thoracic XXXX study from XXXX as well. No pneumothorax. No large pleural effusion. No focal infiltrate.",
+    "classification": {
+      "lung": "Low lung volumes with elevated hemidiaphragms, greater on the right. No pneumothorax. No large pleural effusion. No focal infiltrate.",
+      "heart": "Mild cardiomegaly.",
+      "mediastinal": "",
+      "bone": "",
+      "others": "Patient is rotated. This is identified on a thoracic XXXX study from XXXX as well."
+    }
+  },
+  {
+    "id": "CXR1391_IM-0250",
+    "original_report": "Stable cardiomediastinal silhouette. Low lung volumes. without focal consolidation, pneumothorax or pleural effusion. Limited lateral view given overlapping tissue silhouettes. Negative for acute bone abnormality.",
+    "classification": {
+      "lung": "Low lung volumes. without focal consolidation, pneumothorax or pleural effusion. Limited lateral view given overlapping tissue silhouettes.",
+      "heart": "Stable cardiomediastinal silhouette.",
+      "mediastinal": "Stable cardiomediastinal silhouette.",
+      "bone": "Negative for acute bone abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR150_IM-0325-0001",
+    "original_report": "Heart size, mediastinal contour, and pulmonary vascularity are within normal limits. No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. Visualized osseous structures appear intact.",
+    "classification": {
+      "lung": "No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified.",
+      "heart": "Heart size, mediastinal contour, and pulmonary vascularity are within normal limits.",
+      "mediastinal": "Heart size, mediastinal contour, and pulmonary vascularity are within normal limits.",
+      "bone": "Visualized osseous structures appear intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR624_IM-2206",
+    "original_report": "The cardiac contours are normal. The lungs are hyperinflated with flattening of the diaphragms and tapering of the distal pulmonary vasculature. There is no focal consolidation. Thoracic spondylosis. Mild dextroscoliosis of the spine. Prior anterior cervical fusion.",
+    "classification": {
+      "lung": "The lungs are hyperinflated with flattening of the diaphragms and tapering of the distal pulmonary vasculature. There is no focal consolidation.",
+      "heart": "The cardiac contours are normal.",
+      "mediastinal": "",
+      "bone": "Thoracic spondylosis. Mild dextroscoliosis of the spine. Prior anterior cervical fusion.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2806_IM-1236",
+    "original_report": "Heart size is normal lungs are clear. No edema or effusions.",
+    "classification": {
+      "lung": "lungs are clear. No edema or effusions.",
+      "heart": "Heart size is normal",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1807_IM-0524",
+    "original_report": "The heart is mild enlarged. Central pulmonary vascularity is again accentuated. There are also mild increased interstitial markings without focal consolidation or pleural effusion.",
+    "classification": {
+      "lung": "Central pulmonary vascularity is again accentuated. There are also mild increased interstitial markings without focal consolidation or pleural effusion.",
+      "heart": "The heart is mild enlarged.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR372_IM-1858-0001",
+    "original_report": "Left retrocardiac airspace disease with blunted posterior costophrenic XXXX on lateral view suggesting small pleural effusion. Normal heart size. Right PICC is unchanged with tip at the caval atrial junction.",
+    "classification": {
+      "lung": "Left retrocardiac airspace disease with blunted posterior costophrenic XXXX on lateral view suggesting small pleural effusion.",
+      "heart": "Normal heart size.",
+      "mediastinal": "Right PICC is unchanged with tip at the caval atrial junction.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2899_IM-1301",
+    "original_report": "The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings.",
+    "classification": {
+      "lung": "The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size.",
+      "bone": "There are no acute bony findings.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1659_IM-0434",
+    "original_report": "Heart size within normal limits. No focal airspace disease. No pneumothorax, no pleural effusion. No displaced rib fractures.",
+    "classification": {
+      "lung": "No focal airspace disease. No pneumothorax, no pleural effusion.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "",
+      "bone": "No displaced rib fractures.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2730_IM-1189",
+    "original_report": "2 images. Heart size and pulmonary vascular engorgement appear within limits of normal. Mediastinal contour is unremarkable. No focal consolidation, pleural effusion, or pneumothorax identified. No convincing acute bony findings.",
+    "classification": {
+      "lung": "No focal consolidation, pleural effusion, or pneumothorax identified.",
+      "heart": "Heart size and pulmonary vascular engorgement appear within limits of normal.",
+      "mediastinal": "Mediastinal contour is unremarkable.",
+      "bone": "No convincing acute bony findings.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1752_IM-0494",
+    "original_report": "Size is normal limits. Cardiomediastinal silhouette has normal contour. There is a vague opacity in the right infrahilar region. There is also a 5 mm well circumscribed nodule in the right upper lung XXXX. It is not well visualized on lateral view.",
+    "classification": {
+      "lung": "There is a vague opacity in the right infrahilar region. There is also a 5 mm well circumscribed nodule in the right upper lung XXXX. It is not well visualized on lateral view.",
+      "heart": "Size is normal limits. Cardiomediastinal silhouette has normal contour.",
+      "mediastinal": "Cardiomediastinal silhouette has normal contour. There is a vague opacity in the right infrahilar region.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3618_IM-1790",
+    "original_report": "The heart size and mediastinal silhouette are within normal limits. No pneumothorax or pleural effusions. The lungs are clear. No focal consolidations. The osseous structures are intact.",
+    "classification": {
+      "lung": "The lungs are clear. No pneumothorax or pleural effusions. No focal consolidations.",
+      "heart": "The heart size is within normal limits.",
+      "mediastinal": "The mediastinal silhouette is within normal limits.",
+      "bone": "The osseous structures are intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR842_IM-2366",
+    "original_report": "Cardiomediastinal silhouette and pulmonary vasculature are within normal limits. Lungs are clear. No pneumothorax or pleural effusion. No radiodense foreign bodies noted. No acute osseous findings.",
+    "classification": {
+      "lung": "Lungs are clear. No pneumothorax or pleural effusion.",
+      "heart": "Cardiomediastinal silhouette and pulmonary vasculature are within normal limits.",
+      "mediastinal": "Cardiomediastinal silhouette and pulmonary vasculature are within normal limits.",
+      "bone": "No acute osseous findings.",
+      "others": "No radiodense foreign bodies noted."
+    }
+  },
+  {
+    "id": "CXR1815_IM-0527",
+    "original_report": "There is no focal consolidation. There is no pneumothorax or large pleural effusion. The cardiomediastinal contours are grossly unremarkable. The heart size is within normal limits. There are mild thoracic spine degenerative changes.",
+    "classification": {
+      "lung": "There is no focal consolidation. There is no pneumothorax or large pleural effusion.",
+      "heart": "The heart size is within normal limits.",
+      "mediastinal": "The cardiomediastinal contours are grossly unremarkable.",
+      "bone": "There are mild thoracic spine degenerative changes.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1171_IM-0116",
+    "original_report": "Heart size upper limits of normal. Low lung volumes with mild bronchovascular crowding and right basilar airspace disease. No pneumothorax or effusions.",
+    "classification": {
+      "lung": "Low lung volumes with mild bronchovascular crowding and right basilar airspace disease. No pneumothorax or effusions.",
+      "heart": "Heart size upper limits of normal.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1922_IM-0598",
+    "original_report": "Heart XXXX, mediastinum, XXXX, bony structures and lung XXXX are unremarkable.",
+    "classification": {
+      "lung": "Lung XXXX are unremarkable",
+      "heart": "Heart XXXX",
+      "mediastinal": "Mediastinum, XXXX",
+      "bone": "Bony structures are unremarkable",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3018_IM-1393",
+    "original_report": "Heart size within normal limits. No focal airspace disease. Stable 4 mm lateral left midlung calcified granuloma. No pneumothorax or pleural effusion.",
+    "classification": {
+      "lung": "No focal airspace disease. Stable 4 mm lateral left midlung calcified granuloma. No pneumothorax or pleural effusion.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3679_IM-1831",
+    "original_report": "Normal heart. Clear lungs. No pneumothorax. No pleural effusion.",
+    "classification": {
+      "lung": "Clear lungs. No pneumothorax. No pleural effusion.",
+      "heart": "Normal heart.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1202_IM-0136",
+    "original_report": "The heart is large, and the pulmonary XXXX are engorged. No infiltrates.",
+    "classification": {
+      "lung": "The pulmonary XXXX are engorged. No infiltrates.",
+      "heart": "The heart is large",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR36_IM-1776",
+    "original_report": "The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.",
+    "classification": {
+      "lung": "The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.",
+      "heart": "",
+      "mediastinal": "Cardio mediastinal silhouette is unremarkable.",
+      "bone": "Visualized osseous structures of the thorax are without acute abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1930_IM-0602-1001",
+    "original_report": "The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are mildly hypoinflated but grossly clear of focal airspace disease, pneumothorax, or pleural effusion. There are mild degenerative endplate changes in the thoracic spine. There are no acute bony findings.",
+    "classification": {
+      "lung": "The lungs are mildly hypoinflated but grossly clear of focal airspace disease, pneumothorax, or pleural effusion. The pulmonary vasculature are within normal limits in size.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette is within normal limits in size.",
+      "bone": "There are mild degenerative endplate changes in the thoracic spine. There are no acute bony findings.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1020_IM-0017",
+    "original_report": "Lung volumes are low. No focal infiltrates. Heart size normal.",
+    "classification": {
+      "lung": "Lung volumes are low. No focal infiltrates.",
+      "heart": "Heart size normal.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2982_IM-1371",
+    "original_report": "The heart is normal in size. The mediastinum is unremarkable. XXXX scarring is noted in the lingula. The lungs are clear.",
+    "classification": {
+      "lung": "XXXX scarring is noted in the lingula. The lungs are clear.",
+      "heart": "The heart is normal in size.",
+      "mediastinal": "The mediastinum is unremarkable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1533_IM-0344",
+    "original_report": "The lungs are clear. The cardiomediastinal silhouette is within normal limits. No pleural effusion is identified.",
+    "classification": {
+      "lung": "The lungs are clear. No pleural effusion is identified.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette is within normal limits.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1684_IM-0449",
+    "original_report": "The heart is normal in size. The pulmonary vascularity is within normal limits in appearance. No focal air space opacities. No pleural effusions or pneumothorax. No acute bony abnormalities.",
+    "classification": {
+      "lung": "The pulmonary vascularity is within normal limits in appearance. No focal air space opacities. No pleural effusions or pneumothorax.",
+      "heart": "The heart is normal in size.",
+      "mediastinal": "",
+      "bone": "No acute bony abnormalities.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1406_IM-0259",
+    "original_report": "The heart and mediastinum are unremarkable. The lungs are hyperexpanded. The lungs are clear without infiltrate. There is no effusion or pneumothorax.",
+    "classification": {
+      "lung": "The lungs are hyperexpanded. The lungs are clear without infiltrate. There is no effusion or pneumothorax.",
+      "heart": "The heart and mediastinum are unremarkable.",
+      "mediastinal": "The heart and mediastinum are unremarkable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2412_IM-0958",
+    "original_report": "The heart size and mediastinal silhouette are within normal limits. No pneumothorax or pleural effusions. The lungs are clear. No focal consolidations. The osseous structures are intact. Calcification in the right upper quadrant of the abdomen XXXX consistent with gallstone.",
+    "classification": {
+      "lung": "No pneumothorax or pleural effusions. The lungs are clear. No focal consolidations.",
+      "heart": "The heart size and mediastinal silhouette are within normal limits.",
+      "mediastinal": "The heart size and mediastinal silhouette are within normal limits.",
+      "bone": "The osseous structures are intact.",
+      "others": "Calcification in the right upper quadrant of the abdomen XXXX consistent with gallstone."
+    }
+  },
+  {
+    "id": "CXR3526_IM-1723",
+    "original_report": "The XXXX examination consists of frontal and lateral radiographs of the chest. there are diminished lung volumes with XXXX XXXX hypoventilatory changes. The cardiac silhouette is not enlarged. There is mild tortuosity of the thoracic aorta. Pulmonary vascularity is within normal limits. No focal consolidation, pleural effusion, or pneumothorax identified. Surgical clips are seen in the upper abdomen. No acute osseous abnormalities demonstrated.",
+    "classification": {
+      "lung": "Diminished lung volumes with XXXX XXXX hypoventilatory changes. Pulmonary vascularity is within normal limits. No focal consolidation, pleural effusion, or pneumothorax identified.",
+      "heart": "The cardiac silhouette is not enlarged.",
+      "mediastinal": "Mild tortuosity of the thoracic aorta.",
+      "bone": "No acute osseous abnormalities demonstrated.",
+      "others": "Surgical clips are seen in the upper abdomen."
+    }
+  },
+  {
+    "id": "CXR3829_IM-1932",
+    "original_report": "Stable moderate cardiomegaly. Mediastinal contours are unchanged. Stable prominence of the central pulmonary vasculature with coarse central interstitial markings. Decreased left basilar airspace disease. No visible pleural effusion or pneumothorax.",
+    "classification": {
+      "lung": "Stable prominence of the central pulmonary vasculature with coarse central interstitial markings. Decreased left basilar airspace disease. No visible pleural effusion or pneumothorax.",
+      "heart": "Stable moderate cardiomegaly.",
+      "mediastinal": "Mediastinal contours are unchanged.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3298_IM-1575",
+    "original_report": "Heart size is within normal limits. No focal airspace consolidations. No pneumothorax or pleural effusion.",
+    "classification": {
+      "lung": "No focal airspace consolidations. No pneumothorax or pleural effusion.",
+      "heart": "Heart size is within normal limits.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2222_IM-0826",
+    "original_report": "Lungs are clear bilaterally, with no focal consolidation, pleural effusion, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. Calcified densities within the right paratracheal region and left perihilar region, may represent calcified granulomas. There is a round opacity measuring 2 cm in diameter within the posterior mediastinum. XXXX are unremarkable.",
+    "classification": {
+      "lung": "Lungs are clear bilaterally, with no focal consolidation, pleural effusion, or pneumothoraces.",
+      "heart": "",
+      "mediastinal": "Cardiomediastinal silhouette is within normal limits. Calcified densities within the right paratracheal region and left perihilar region, may represent calcified granulomas. There is a round opacity measuring 2 cm in diameter within the posterior mediastinum.",
+      "bone": "",
+      "others": "XXXX are unremarkable."
+    }
+  },
+  {
+    "id": "CXR2375_IM-0936",
+    "original_report": "Cardiac silhouette is upper limits of normal in size. Normal mediastinal contour and pulmonary vasculature. There is evidence of healed granulomatous disease in the right hemithorax. Lungs are without focal airspace consolidation, large pleural effusion or pneumothorax.",
+    "classification": {
+      "lung": "There is evidence of healed granulomatous disease in the right hemithorax. Lungs are without focal airspace consolidation, large pleural effusion or pneumothorax.",
+      "heart": "Cardiac silhouette is upper limits of normal in size.",
+      "mediastinal": "Normal mediastinal contour and pulmonary vasculature.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR734_IM-2293-0001",
+    "original_report": "No pneumothorax. Heart size is normal. No large pleural effusions. No focal airspace consolidation.",
+    "classification": {
+      "lung": "No pneumothorax. No large pleural effusions. No focal airspace consolidation.",
+      "heart": "Heart size is normal.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR197_IM-0631",
+    "original_report": "The cardiomediastinal silhouette is normal. Lungs are hyperexpanded but clear without evidence of effusion or infiltrate. There is a small right lower lobe calcified granuloma that is unchanged from prior examinations. No acute bony abnormality. No pneumothorax or pneumomediastinum.",
+    "classification": {
+      "lung": "Lungs are hyperexpanded but clear without evidence of effusion or infiltrate. There is a small right lower lobe calcified granuloma that is unchanged from prior examinations. No pneumothorax or pneumomediastinum.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette is normal. No pneumomediastinum.",
+      "bone": "No acute bony abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1027_IM-0021",
+    "original_report": "This examination is somewhat limited secondary to obscuration of the bilateral posterior costophrenic sulci on the lateral view. The cardiomediastinal silhouette is within normal limits for appearance. No focal areas of pulmonary consolidation. No pneumothorax. No large pleural effusion. The thoracic spine appears intact.",
+    "classification": {
+      "lung": "No focal areas of pulmonary consolidation. No pneumothorax. No large pleural effusion.",
+      "heart": "The cardiomediastinal silhouette is within normal limits for appearance.",
+      "mediastinal": "The cardiomediastinal silhouette is within normal limits for appearance.",
+      "bone": "The thoracic spine appears intact.",
+      "others": "This examination is somewhat limited secondary to obscuration of the bilateral posterior costophrenic sulci on the lateral view."
+    }
+  },
+  {
+    "id": "CXR2653_IM-1137",
+    "original_report": "Heart size and mediastinal contours appear within normal limits. Pulmonary vascularity is within normal limits. No focal consolidation, suspicious pulmonary opacity, pneumothorax or definite pleural effusion. Mild degenerative changes of the thoracic spine.",
+    "classification": {
+      "lung": "Pulmonary vascularity is within normal limits. No focal consolidation, suspicious pulmonary opacity, pneumothorax or definite pleural effusion.",
+      "heart": "Heart size and mediastinal contours appear within normal limits.",
+      "mediastinal": "Heart size and mediastinal contours appear within normal limits.",
+      "bone": "Mild degenerative changes of the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2893_IM-1295",
+    "original_report": "Lungs are clear bilaterally with no focal infiltrate, pleural effusion, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. XXXX and soft tissues are unremarkable.",
+    "classification": {
+      "lung": "Lungs are clear bilaterally with no focal infiltrate, pleural effusion, or pneumothoraces.",
+      "heart": "",
+      "mediastinal": "Cardiomediastinal silhouette is within normal limits.",
+      "bone": "XXXX and soft tissues are unremarkable.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2588_IM-1083",
+    "original_report": "No focal consolidation, pneumothorax or definite pleural effusion. Nodular density projected over the left base with no lateral view correlate XXXX secondary to soft tissue overlay. Heart size and pulmonary vascularity within normal limits, no mediastinal widening characteristic in appearance of vascular injury. No acute osseous injury XXXX demonstrated.",
+    "classification": {
+      "lung": "No focal consolidation, pneumothorax or definite pleural effusion. Nodular density projected over the left base with no lateral view correlate XXXX secondary to soft tissue overlay. Pulmonary vascularity within normal limits",
+      "heart": "Heart size within normal limits",
+      "mediastinal": "No mediastinal widening characteristic in appearance of vascular injury",
+      "bone": "No acute osseous injury XXXX demonstrated",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2767_IM-1212",
+    "original_report": "Lungs are clear. No pleural effusion or pneumothorax. Cardiomediastinal silhouette is normal. There are minimal degenerative changes of the spine.",
+    "classification": {
+      "lung": "Lungs are clear. No pleural effusion or pneumothorax.",
+      "heart": "",
+      "mediastinal": "Cardiomediastinal silhouette is normal.",
+      "bone": "There are minimal degenerative changes of the spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1991_IM-0648",
+    "original_report": "The heart is normal in size. The mediastinum is stable. The lungs are hypoinflated. There are XXXX streaky opacities predominantly in the left lung base possibly related to scarring and atelectasis. XXXX B-lines are also noted. Definite infiltrate is not excluded. There is no large effusion.",
+    "classification": {
+      "lung": "The lungs are hypoinflated. There are XXXX streaky opacities predominantly in the left lung base possibly related to scarring and atelectasis. XXXX B-lines are also noted. Definite infiltrate is not excluded. There is no large effusion.",
+      "heart": "The heart is normal in size.",
+      "mediastinal": "The mediastinum is stable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3462_IM-1683",
+    "original_report": "The heart is top normal in size. The mediastinum is stable. There is a small retrocardiac density which may be secondary to small hiatal hernia. Left IJ catheter tip at cavoatrial junction. No pneumothorax is seen. The lungs are clear.",
+    "classification": {
+      "lung": "The lungs are clear. No pneumothorax is seen.",
+      "heart": "The heart is top normal in size. There is a small retrocardiac density which may be secondary to small hiatal hernia.",
+      "mediastinal": "The mediastinum is stable. Left IJ catheter tip at cavoatrial junction.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3054_IM-1422",
+    "original_report": "The patient is status post CABG. The heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. Degenerative changes are present in the spine. Ureteral stents are noted on the right.",
+    "classification": {
+      "lung": "The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen.",
+      "heart": "The patient is status post CABG. The heart size and pulmonary vascularity appear within normal limits.",
+      "mediastinal": "",
+      "bone": "Degenerative changes are present in the spine.",
+      "others": "Ureteral stents are noted on the right."
+    }
+  },
+  {
+    "id": "CXR3944_IM-2014",
+    "original_report": "Mediport catheter seen on the right with the tip in the mid SVC. The lungs appear to be clear. No pleural effusion is seen. The heart and mediastinum are normal. The skeletal structures are normal.",
+    "classification": {
+      "lung": "The lungs appear to be clear. No pleural effusion is seen.",
+      "heart": "The heart and mediastinum are normal.",
+      "mediastinal": "Mediport catheter seen on the right with the tip in the mid SVC. The heart and mediastinum are normal.",
+      "bone": "The skeletal structures are normal.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR860_IM-2381",
+    "original_report": "Chronic increased interstitial markings without evidence of focal infiltrate. Bilateral apical pleural thickening. No pneumothorax. No pleural effusion. Stable heart size. Marked degenerative change of the XXXX, status post remote right humerus fracture. XXXX deformity of a midthoracic vertebral body, also XXXX chronic.",
+    "classification": {
+      "lung": "Chronic increased interstitial markings without evidence of focal infiltrate. Bilateral apical pleural thickening. No pneumothorax. No pleural effusion.",
+      "heart": "Stable heart size.",
+      "mediastinal": "",
+      "bone": "Marked degenerative change of the XXXX, status post remote right humerus fracture. XXXX deformity of a midthoracic vertebral body, also XXXX chronic.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2135_IM-0757",
+    "original_report": "There is no focal consolidation. Mild blunting of the posterior costophrenic XXXX XXXX represent small effusions. No pneumothorax is present. There is moderate cardiomegaly. The pulmonary vasculature is within normal limits.",
+    "classification": {
+      "lung": "There is no focal consolidation. Mild blunting of the posterior costophrenic XXXX XXXX represent small effusions. No pneumothorax is present. The pulmonary vasculature is within normal limits.",
+      "heart": "There is moderate cardiomegaly.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2499_IM-1023",
+    "original_report": "Low lung volumes bilaterally with bibasilar airspace opacities, right greater than left. There is blunting of the bilateral costophrenic sulci. Cardiac device overlies left chest, leads intact, tips overlying right atrium and right ventricle. No pneumothorax. Cardiomegaly. Degenerative changes of the spine.",
+    "classification": {
+      "lung": "Low lung volumes bilaterally with bibasilar airspace opacities, right greater than left. There is blunting of the bilateral costophrenic sulci. No pneumothorax.",
+      "heart": "Cardiac device overlies left chest, leads intact, tips overlying right atrium and right ventricle. Cardiomegaly.",
+      "mediastinal": "",
+      "bone": "Degenerative changes of the spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3733_IM-1866",
+    "original_report": "Heart size is enlarged. Cardiomediastinal contours are unchanged since previous exam. There is blunting of the right costophrenic XXXX XXXX old pleural scar. Lungs are otherwise clear bilaterally. A left upper lobe granuloma appears unchanged. There is kyphosis of the thoracic spine with anterior osteophyte formations. Aortic ectasia is seen in the ascending aorta and the XXXX.",
+    "classification": {
+      "lung": "There is blunting of the right costophrenic XXXX XXXX old pleural scar. Lungs are otherwise clear bilaterally. A left upper lobe granuloma appears unchanged.",
+      "heart": "Heart size is enlarged.",
+      "mediastinal": "Cardiomediastinal contours are unchanged since previous exam. Aortic ectasia is seen in the ascending aorta and the XXXX.",
+      "bone": "There is kyphosis of the thoracic spine with anterior osteophyte formations.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2477_IM-1006",
+    "original_report": "Intact XXXX sternotomy XXXX. Stable cardiomegaly with grossly unchanged rightward mediastinal shift. Unchanged appearance of left perihilar calcified lymph XXXX and left basilar calcified granuloma. Relatively unchanged appearance of prominent interstitial markings with patchy bibasilar atelectasis. The negative for pneumothorax, focal infiltrate, or large pleural effusion. No acute bony abnormalities.",
+    "classification": {
+      "lung": "Unchanged appearance of left perihilar calcified lymph XXXX and left basilar calcified granuloma. Relatively unchanged appearance of prominent interstitial markings with patchy bibasilar atelectasis. The negative for pneumothorax, focal infiltrate, or large pleural effusion.",
+      "heart": "Stable cardiomegaly",
+      "mediastinal": "Grossly unchanged rightward mediastinal shift",
+      "bone": "No acute bony abnormalities",
+      "others": "Intact XXXX sternotomy XXXX"
+    }
+  },
+  {
+    "id": "CXR631_IM-2212",
+    "original_report": "The heart is normal in size. The mediastinum is within normal limits. Dual-lumen right IJ catheter is identified without pneumothorax. The lungs are moderately hypoinflated with bibasilar XXXX opacities XXXX adjacent atelectasis. There is ill-defined density overlying the anterior left 5th rib, possibly healing deformity versus superimposition of structures.",
+    "classification": {
+      "lung": "The lungs are moderately hypoinflated with bibasilar XXXX opacities XXXX adjacent atelectasis.",
+      "heart": "The heart is normal in size.",
+      "mediastinal": "The mediastinum is within normal limits. Dual-lumen right IJ catheter is identified without pneumothorax.",
+      "bone": "There is ill-defined density overlying the anterior left 5th rib, possibly healing deformity versus superimposition of structures.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2045_IM-0687",
+    "original_report": "The heart is upper limits of normal in size. Mild tortuosity of the thoracic aorta. The lungs are clear without infiltrate. There is no effusion or pneumothorax.",
+    "classification": {
+      "lung": "The lungs are clear without infiltrate. There is no effusion or pneumothorax.",
+      "heart": "The heart is upper limits of normal in size.",
+      "mediastinal": "Mild tortuosity of the thoracic aorta.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1477_IM-0309",
+    "original_report": "Heart size within normal limits. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. No pneumothorax.",
+    "classification": {
+      "lung": "No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. No pneumothorax.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1687_IM-0450",
+    "original_report": "Feeding tube noted with tip XXXX distal to the gastroesophageal junction. No focal areas of consolidation. Heart size within normal limits. No pleural effusions. Osseous structures intact.",
+    "classification": {
+      "lung": "No focal areas of consolidation. No pleural effusions.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "Feeding tube noted with tip XXXX distal to the gastroesophageal junction.",
+      "bone": "Osseous structures intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2993_IM-1380",
+    "original_report": "The lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Bony thorax and soft tissues grossly unremarkable.",
+    "classification": {
+      "lung": "The lungs are clear without focal consolidation, effusion, or pneumothorax.",
+      "heart": "Normal heart size.",
+      "mediastinal": "",
+      "bone": "Bony thorax and soft tissues grossly unremarkable.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR863_IM-2383",
+    "original_report": "No focal consolidation. No visualized pneumothorax. The heart size is normal. No large pleural effusions. The cardiomediastinal silhouette is grossly unremarkable.",
+    "classification": {
+      "lung": "No focal consolidation. No visualized pneumothorax. No large pleural effusions.",
+      "heart": "The heart size is normal.",
+      "mediastinal": "The cardiomediastinal silhouette is grossly unremarkable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3169_IM-1492",
+    "original_report": "Hyperlucent hyperinflated lungs with flattened diaphragms. Granulomas. Small sized heart. Minimal apical capping slightly greater at the left. XXXX unremarkable.",
+    "classification": {
+      "lung": "Hyperlucent hyperinflated lungs with flattened diaphragms. Granulomas.",
+      "heart": "Small sized heart. Minimal apical capping slightly greater at the left.",
+      "mediastinal": "",
+      "bone": "",
+      "others": "XXXX unremarkable."
+    }
+  },
+  {
+    "id": "CXR103_IM-0023",
+    "original_report": "The lungs are clear without evidence of focal airspace disease. There is no evidence of pneumothorax or large pleural effusion. The cardiac contour is within normal limits. Compared to prior exam, there is XXXX prominence of the mediastinal contour near the right hilum. This may represent the ascending aorta or mediastinal lymphadenopathy. CT chest with contrast may be helpful for further evaluation. There are mild degenerative changes of the thoracic spine.",
+    "classification": {
+      "lung": "The lungs are clear without evidence of focal airspace disease. There is no evidence of pneumothorax or large pleural effusion.",
+      "heart": "The cardiac contour is within normal limits.",
+      "mediastinal": "Compared to prior exam, there is XXXX prominence of the mediastinal contour near the right hilum. This may represent the ascending aorta or mediastinal lymphadenopathy. CT chest with contrast may be helpful for further evaluation.",
+      "bone": "There are mild degenerative changes of the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2583_IM-1081",
+    "original_report": "The heart is normal in size. The mediastinum is unremarkable. The lungs are clear.",
+    "classification": {
+      "lung": "The lungs are clear.",
+      "heart": "The heart is normal in size.",
+      "mediastinal": "The mediastinum is unremarkable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3851_IM-1948",
+    "original_report": "No pneumothorax, pleural effusion, or focal airspace disease. Nodular densities consistent with chronic granulomatous disease. Bony structures appear intact. Heart size normal.",
+    "classification": {
+      "lung": "No pneumothorax, pleural effusion, or focal airspace disease. Nodular densities consistent with chronic granulomatous disease.",
+      "heart": "Heart size normal.",
+      "mediastinal": "",
+      "bone": "Bony structures appear intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2724_IM-1186",
+    "original_report": "Lungs are clear. No pleural effusions or pneumothoraces. heart size is normal. There is some tortuosity of the aorta. Degenerative changes in the thoracic spine",
+    "classification": {
+      "lung": "Lungs are clear. No pleural effusions or pneumothoraces.",
+      "heart": "Heart size is normal.",
+      "mediastinal": "There is some tortuosity of the aorta.",
+      "bone": "Degenerative changes in the thoracic spine",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1779_IM-0509",
+    "original_report": "Heart size normal. Lungs are clear. XXXX are normal. No pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses.",
+    "classification": {
+      "lung": "Lungs are clear. No pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses.",
+      "heart": "Heart size normal.",
+      "mediastinal": "",
+      "bone": "",
+      "others": "XXXX are normal."
+    }
+  },
+  {
+    "id": "CXR3369_IM-1621",
+    "original_report": "A large pleural air collection is present on the right. Mediastinum is shifted to the left as compared to the previous examination. The right lower lobe is totally opaque.",
+    "classification": {
+      "lung": "A large pleural air collection is present on the right. The right lower lobe is totally opaque.",
+      "heart": "",
+      "mediastinal": "Mediastinum is shifted to the left as compared to the previous examination.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1712_IM-0470",
+    "original_report": "Normal cardiac contours. No pleural effusion or pneumothorax. Bilateral lower lobe bronchial thickening consistent with bronchitis.",
+    "classification": {
+      "lung": "Bilateral lower lobe bronchial thickening consistent with bronchitis. No pleural effusion or pneumothorax.",
+      "heart": "Normal cardiac contours.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1054_IM-0040",
+    "original_report": "Heart size is normal. Stable mediastinal contour. No focal airspace consolidation, suspicious pulmonary opacity, pneumothorax, or pleural effusion. Mild thoracic spine degenerative change.",
+    "classification": {
+      "lung": "No focal airspace consolidation, suspicious pulmonary opacity, pneumothorax, or pleural effusion.",
+      "heart": "Heart size is normal.",
+      "mediastinal": "Stable mediastinal contour.",
+      "bone": "Mild thoracic spine degenerative change.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1207_IM-0140-0001",
+    "original_report": "The lungs are clear. The heart and pulmonary XXXX are normal. The pleural spaces are clear. Mediastinal contours are normal. There is no pneumothorax.",
+    "classification": {
+      "lung": "The lungs are clear. The pleural spaces are clear. There is no pneumothorax.",
+      "heart": "The heart and pulmonary XXXX are normal.",
+      "mediastinal": "Mediastinal contours are normal.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3869_IM-1962",
+    "original_report": "There are changes of prior midline sternotomy with surgical clips consistent with CABG, and stable mild cardiomegaly. No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. Visualized osseous structures appear intact.",
+    "classification": {
+      "lung": "No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified.",
+      "heart": "There are changes of prior midline sternotomy with surgical clips consistent with CABG, and stable mild cardiomegaly.",
+      "mediastinal": "",
+      "bone": "Visualized osseous structures appear intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3090_IM-1445",
+    "original_report": "Normal cardiac contour. Right sided pleural effusion. Clear left lung XXXX. No pneumothorax.",
+    "classification": {
+      "lung": "Right sided pleural effusion. Clear left lung XXXX. No pneumothorax.",
+      "heart": "Normal cardiac contour.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR330_IM-1577-0001",
+    "original_report": "Heart size, mediastinal contour, and pulmonary vascularity are within normal limits. No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. Visualized osseous structures appear intact.",
+    "classification": {
+      "lung": "No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified.",
+      "heart": "Heart size, mediastinal contour, and pulmonary vascularity are within normal limits.",
+      "mediastinal": "Heart size, mediastinal contour, and pulmonary vascularity are within normal limits.",
+      "bone": "Visualized osseous structures appear intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1146_IM-0098",
+    "original_report": "Heart size is normal. The lungs are clear. There are no focal air space consolidations. No pleural effusions or pneumothoraces. The hilar and mediastinal contours are normal. Calcified lingular pulmonary granuloma. Normal pulmonary vascularity.",
+    "classification": {
+      "lung": "The lungs are clear. There are no focal air space consolidations. No pleural effusions or pneumothoraces. Calcified lingular pulmonary granuloma. Normal pulmonary vascularity.",
+      "heart": "Heart size is normal.",
+      "mediastinal": "The hilar and mediastinal contours are normal.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3491_IM-1698",
+    "original_report": "The heart size and pulmonary vascularity appear within normal limits. The thoracic aorta is prominent with calcification within the aorta. Azygos lobe is noted. Lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. Degenerative changes noted in the spine.",
+    "classification": {
+      "lung": "The pulmonary vascularity appear within normal limits. Azygos lobe is noted. Lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen.",
+      "heart": "The heart size appear within normal limits.",
+      "mediastinal": "The thoracic aorta is prominent with calcification within the aorta.",
+      "bone": "Degenerative changes noted in the spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2976_IM-1365",
+    "original_report": "Heart size and vascularity normal. Lungs are hyperexpanded but clear. Mediastinal contour normal. No pleural effusions or pneumothoraces.",
+    "classification": {
+      "lung": "Lungs are hyperexpanded but clear. No pleural effusions or pneumothoraces.",
+      "heart": "Heart size and vascularity normal.",
+      "mediastinal": "Mediastinal contour normal.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3287_IM-1568",
+    "original_report": "Heart size and mediastinal contour normal. There is a 2.5 cm vague nodular density in the right mid lung, probably within the middle lobe given the opacification on the lateral view. There is a subtle left retrocardiac density also noted, with obscuration of aortic contour. No pleural effusions or pneumothorax.",
+    "classification": {
+      "lung": "There is a 2.5 cm vague nodular density in the right mid lung, probably within the middle lobe given the opacification on the lateral view. There is a subtle left retrocardiac density also noted. No pleural effusions or pneumothorax.",
+      "heart": "Heart size normal.",
+      "mediastinal": "Mediastinal contour normal. There is obscuration of aortic contour.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3346_IM-1604",
+    "original_report": "The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.",
+    "classification": {
+      "lung": "The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.",
+      "heart": "",
+      "mediastinal": "Cardio mediastinal silhouette is unremarkable.",
+      "bone": "Visualized osseous structures of the thorax are without acute abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1469_IM-0303",
+    "original_report": "There is no focal airspace consolidation or pleural effusion. Heart size is normal. No pneumothorax.",
+    "classification": {
+      "lung": "There is no focal airspace consolidation or pleural effusion. No pneumothorax.",
+      "heart": "Heart size is normal.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2427_IM-0969",
+    "original_report": "The trachea is midline. The cardiomediastinal silhouette is normal and unchanged compared to prior examination. The lungs are clear, without evidence of acute infiltrate or effusion. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities. There is hiatal hernia.",
+    "classification": {
+      "lung": "The trachea is midline. The lungs are clear, without evidence of acute infiltrate or effusion. There is no pneumothorax.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette is normal and unchanged compared to prior examination.",
+      "bone": "The visualized bony structures reveal no acute abnormalities.",
+      "others": "There is hiatal hernia."
+    }
+  },
+  {
+    "id": "CXR1301_IM-0198",
+    "original_report": "Heart size within normal limits, stable mediastinal and hilar contours, mediastinal calcifications suggest a previous granulomatous process. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.",
+    "classification": {
+      "lung": "No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.",
+      "heart": "Heart size within normal limits",
+      "mediastinal": "Stable mediastinal and hilar contours, mediastinal calcifications suggest a previous granulomatous process",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1878_IM-0569",
+    "original_report": "XXXX XXXX and lateral chest examination was obtained. XXXX calcified granuloma seen. The heart silhouette is normal in size and contour. Aortic XXXX appear unremarkable. Lungs demonstrate no acute findings. There is no effusion or pneumothorax.",
+    "classification": {
+      "lung": "XXXX calcified granuloma seen. Lungs demonstrate no acute findings. There is no effusion or pneumothorax.",
+      "heart": "The heart silhouette is normal in size and contour.",
+      "mediastinal": "Aortic XXXX appear unremarkable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR856_IM-2377",
+    "original_report": "Limited evaluation of the lateral view due to rotation and frontal view due to motion artifact. Stable mild cardiomegaly. Normal pulmonary vascularity. The lungs are clear. No focal consolidation, visible pneumothorax or large pleural effusions. XXXX XXXX opacities are related to overlying soft tissues. The posterior sulci are clear. Degenerative changes of the spine.",
+    "classification": {
+      "lung": "Normal pulmonary vascularity. The lungs are clear. No focal consolidation, visible pneumothorax or large pleural effusions. The posterior sulci are clear.",
+      "heart": "Stable mild cardiomegaly.",
+      "mediastinal": "",
+      "bone": "Degenerative changes of the spine.",
+      "others": "Limited evaluation of the lateral view due to rotation and frontal view due to motion artifact. XXXX XXXX opacities are related to overlying soft tissues."
+    }
+  },
+  {
+    "id": "CXR2335_IM-0902",
+    "original_report": "The heart size is normal. There is normal cardiomediastinal silhouette. Lungs are clear bilaterally. Thoracic spine shows anterior osteophyte formation.",
+    "classification": {
+      "lung": "Lungs are clear bilaterally.",
+      "heart": "The heart size is normal.",
+      "mediastinal": "There is normal cardiomediastinal silhouette.",
+      "bone": "Thoracic spine shows anterior osteophyte formation.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3577_IM-1758",
+    "original_report": "There are no focal areas of consolidation. No suspicious pulmonary opacities. Heart size within normal limits. No pleural effusions. No evidence of pneumothorax. Osseous structures intact.",
+    "classification": {
+      "lung": "There are no focal areas of consolidation. No suspicious pulmonary opacities. No pleural effusions. No evidence of pneumothorax.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "",
+      "bone": "Osseous structures intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1594_IM-0385",
+    "original_report": "The heart and cardiomediastinal silhouette are normal in size and shape. There is no focal airspace opacity, pleural effusion, or pneumothorax. The osseous structures are intact.",
+    "classification": {
+      "lung": "There is no focal airspace opacity, pleural effusion, or pneumothorax.",
+      "heart": "The heart and cardiomediastinal silhouette are normal in size and shape.",
+      "mediastinal": "The heart and cardiomediastinal silhouette are normal in size and shape.",
+      "bone": "The osseous structures are intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1840_IM-0545",
+    "original_report": "The cardiomediastinal silhouette is normal in size and configuration. The lungs are well aerated. There is asymmetric opacity to left suprahilar chest. No discrete correlate is seen on lateral view. Findings may reflect focal airspace disease or adenopathy. No pleural effusion. No pneumothorax.",
+    "classification": {
+      "lung": "The lungs are well aerated. There is asymmetric opacity to left suprahilar chest. Findings may reflect focal airspace disease or adenopathy. No pleural effusion. No pneumothorax.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette is normal in size and configuration.",
+      "bone": "",
+      "others": "No discrete correlate is seen on lateral view."
+    }
+  },
+  {
+    "id": "CXR3809_IM-1919",
+    "original_report": "Cardiac and mediastinal contours are within normal limits. The lungs are clear. Bony structures are intact.",
+    "classification": {
+      "lung": "The lungs are clear.",
+      "heart": "Cardiac contours are within normal limits.",
+      "mediastinal": "Mediastinal contours are within normal limits.",
+      "bone": "Bony structures are intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3909_IM-1986",
+    "original_report": "Cardiac and mediastinal contours are within normal limits. Right chest XXXX tip in the low SVC. Right granulomatous disease. The lungs are clear. Bony structures are intact.",
+    "classification": {
+      "lung": "The lungs are clear. Right granulomatous disease.",
+      "heart": "Cardiac contours are within normal limits.",
+      "mediastinal": "Mediastinal contours are within normal limits. Right chest XXXX tip in the low SVC.",
+      "bone": "Bony structures are intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3947_IM-2016",
+    "original_report": "The lungs appear clear. There are no suspicious pulmonary nodules or infiltrates. The heart and pulmonary XXXX appear normal. The pleural spaces are clear. Mediastinal contours are normal. There is a left-sided tunneled catheter, the distal tip at the mid superior XXXX XXXX level.",
+    "classification": {
+      "lung": "The lungs appear clear. There are no suspicious pulmonary nodules or infiltrates. The pleural spaces are clear.",
+      "heart": "The heart and pulmonary XXXX appear normal.",
+      "mediastinal": "Mediastinal contours are normal.",
+      "bone": "",
+      "others": "There is a left-sided tunneled catheter, the distal tip at the mid superior XXXX XXXX level."
+    }
+  },
+  {
+    "id": "CXR3143_IM-1477",
+    "original_report": "XXXX XXXX and lateral chest examination was obtained. The heart silhouette is normal in size and contour. Aortic XXXX appear unremarkable. Lungs demonstrate no acute findings. There is no effusion or pneumothorax.",
+    "classification": {
+      "lung": "Lungs demonstrate no acute findings. There is no effusion or pneumothorax.",
+      "heart": "The heart silhouette is normal in size and contour.",
+      "mediastinal": "Aortic XXXX appear unremarkable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR872_IM-2391",
+    "original_report": "Cardiac and mediastinal contours are within normal limits. Prior granulomatous disease. The lungs are clear. Bony structures are intact.",
+    "classification": {
+      "lung": "The lungs are clear. Prior granulomatous disease.",
+      "heart": "Cardiac contours are within normal limits.",
+      "mediastinal": "Mediastinal contours are within normal limits.",
+      "bone": "Bony structures are intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2600_IM-1091",
+    "original_report": "The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. Heart and mediastinum normal. Note XXXX of placement of a retention XXXX in the lower cervical spine.",
+    "classification": {
+      "lung": "Both lungs are clear and expanded.",
+      "heart": "The heart and lungs have XXXX XXXX in the interval. Heart and mediastinum normal.",
+      "mediastinal": "Heart and mediastinum normal.",
+      "bone": "Note XXXX of placement of a retention XXXX in the lower cervical spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3831_IM-1934",
+    "original_report": "Clear lungs. No infiltrates or suspicious pulmonary opacity. No pleural effusion or pneumothorax. Cardiomediastinal silhouette within normal limits.",
+    "classification": {
+      "lung": "Clear lungs. No infiltrates or suspicious pulmonary opacity. No pleural effusion or pneumothorax.",
+      "heart": "",
+      "mediastinal": "Cardiomediastinal silhouette within normal limits.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1750_IM-0493",
+    "original_report": "The heart size is within normal limits. After cirrhotic calcification of the thoracic aorta. Hyperexpanded lungs with flattened diaphragms and increased retrosternal clear space suggestive of emphysema. Streaky left basilar opacities are favored to represent scarring. No pleural effusions or pneumothorax. Exaggerated thoracic kyphosis. Scattered calcified granulomas bilaterally. No acute bony abnormalities.",
+    "classification": {
+      "lung": "Hyperexpanded lungs with flattened diaphragms and increased retrosternal clear space suggestive of emphysema. Streaky left basilar opacities are favored to represent scarring. No pleural effusions or pneumothorax. Scattered calcified granulomas bilaterally.",
+      "heart": "The heart size is within normal limits.",
+      "mediastinal": "After cirrhotic calcification of the thoracic aorta.",
+      "bone": "Exaggerated thoracic kyphosis. No acute bony abnormalities.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR456_IM-2087",
+    "original_report": "PA and lateral radiograph the chest demonstrate stable cardiomediastinal silhouette. No focal consolidation, large pleural effusion, or pneumothorax is identified. Evidence of prior granulomatous disease. Visualized osseous structures appear intact.",
+    "classification": {
+      "lung": "No focal consolidation, large pleural effusion, or pneumothorax is identified. Evidence of prior granulomatous disease.",
+      "heart": "Stable cardiomediastinal silhouette.",
+      "mediastinal": "Stable cardiomediastinal silhouette.",
+      "bone": "Visualized osseous structures appear intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR289_IM-1292-0001",
+    "original_report": "Heart size within normal limits, stable mediastinal and hilar contours, right chest XXXX tip in the low SVC. Monitoring device artifacts. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.",
+    "classification": {
+      "lung": "No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.",
+      "heart": "Heart size within normal limits",
+      "mediastinal": "Stable mediastinal and hilar contours, right chest XXXX tip in the low SVC",
+      "bone": "",
+      "others": "Monitoring device artifacts"
+    }
+  },
+  {
+    "id": "CXR1334_IM-0214",
+    "original_report": "Mediastinal contours are normal. Lungs are clear. There is no pneumothorax or large pleural effusion.",
+    "classification": {
+      "lung": "Lungs are clear. There is no pneumothorax or large pleural effusion.",
+      "heart": "",
+      "mediastinal": "Mediastinal contours are normal.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1488_IM-0315",
+    "original_report": "The heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen.",
+    "classification": {
+      "lung": "The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen.",
+      "heart": "The heart size and pulmonary vascularity appear within normal limits.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2781_IM-1219",
+    "original_report": "Normal heart. Clear lungs. No pneumothorax. No pleural effusion. Trachea is midline.",
+    "classification": {
+      "lung": "Clear lungs. No pneumothorax. No pleural effusion. Trachea is midline.",
+      "heart": "Normal heart.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1561_IM-0367",
+    "original_report": "Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Soft tissues unremarkable",
+    "classification": {
+      "lung": "Lungs are clear without focal consolidation, effusion, or pneumothorax.",
+      "heart": "Normal heart size.",
+      "mediastinal": "",
+      "bone": "",
+      "others": "Soft tissues unremarkable"
+    }
+  },
+  {
+    "id": "CXR812_IM-2343",
+    "original_report": "Chronic bilateral emphysematous changes. The heart size and mediastinal silhouette are within normal limits for contour. The lungs are clear. No pneumothorax or pleural effusions. The XXXX are intact. Stable splenic artery embolism coils.",
+    "classification": {
+      "lung": "Chronic bilateral emphysematous changes. The lungs are clear. No pneumothorax or pleural effusions.",
+      "heart": "The heart size and mediastinal silhouette are within normal limits for contour.",
+      "mediastinal": "The heart size and mediastinal silhouette are within normal limits for contour. Stable splenic artery embolism coils.",
+      "bone": "The XXXX are intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1720_IM-0475-0001",
+    "original_report": "There are very low lung volumes with associated central bronchovascular crowding. There is elevation of the left hemidiaphragm. There are XXXX-filled loops of mildly dilated colon in the left upper quadrant. The bowel XXXX pattern is not well evaluated secondary to incomplete imaging of the abdomen. There is no pneumothorax or definite pleural effusion. The streaky opacities in the lung bases may represent atelectasis. No definite infectious infiltrate is seen. There is scoliosis and exaggeration of the thoracic kyphosis.",
+    "classification": {
+      "lung": "There are very low lung volumes with associated central bronchovascular crowding. There is elevation of the left hemidiaphragm. There is no pneumothorax or definite pleural effusion. The streaky opacities in the lung bases may represent atelectasis. No definite infectious infiltrate is seen.",
+      "heart": "",
+      "mediastinal": "",
+      "bone": "There is scoliosis and exaggeration of the thoracic kyphosis.",
+      "others": "There are XXXX-filled loops of mildly dilated colon in the left upper quadrant. The bowel XXXX pattern is not well evaluated secondary to incomplete imaging of the abdomen."
+    }
+  },
+  {
+    "id": "CXR2238_IM-0835",
+    "original_report": "The heart is normal in size. The mediastinum is unremarkable. The lungs are clear.",
+    "classification": {
+      "lung": "The lungs are clear.",
+      "heart": "The heart is normal in size.",
+      "mediastinal": "The mediastinum is unremarkable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1220_IM-0148",
+    "original_report": "There is hyperexpansion, hyperlucency of both lungs, as well as flattening of the diaphragm consistent with chronic emphysematous lung disease. No focal consolidation, pneumothorax, or large pleural effusion identified (blunting of costophrenic recesses bilaterally may represent small effusions or pleural thickening/scar. Stable calcified mediastinal and hilar lymph XXXX and a left basilar calcified granuloma. Acute osseous abnormality. The mediastinal silhouette stable.",
+    "classification": {
+      "lung": "There is hyperexpansion, hyperlucency of both lungs, as well as flattening of the diaphragm consistent with chronic emphysematous lung disease. No focal consolidation, pneumothorax, or large pleural effusion identified (blunting of costophrenic recesses bilaterally may represent small effusions or pleural thickening/scar.",
+      "heart": "",
+      "mediastinal": "Stable calcified mediastinal and hilar lymph XXXX and a left basilar calcified granuloma. The mediastinal silhouette stable.",
+      "bone": "Acute osseous abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2286_IM-0871",
+    "original_report": "Chronic-appearing XXXX opacities are unchanged and represent emphysema. Heart size is normal. No large pleural effusions. No pneumothorax. No focal airspace opacities.",
+    "classification": {
+      "lung": "Chronic-appearing XXXX opacities are unchanged and represent emphysema. No large pleural effusions. No pneumothorax. No focal airspace opacities.",
+      "heart": "Heart size is normal.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3257_IM-1544",
+    "original_report": "The cardiac contours are normal. The lungs are clear. Thoracic spondylosis.",
+    "classification": {
+      "lung": "The lungs are clear.",
+      "heart": "The cardiac contours are normal.",
+      "mediastinal": "",
+      "bone": "Thoracic spondylosis.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3418_IM-1653",
+    "original_report": "Prominent interstitial markings. There are no focal areas of consolidation. No suspicious pulmonary opacities. Heart size within normal limits. No pleural effusions. No evidence of pneumothorax.",
+    "classification": {
+      "lung": "Prominent interstitial markings. There are no focal areas of consolidation. No suspicious pulmonary opacities. No pleural effusions. No evidence of pneumothorax.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR237_IM-0930",
+    "original_report": "The heart size and cardiomediastinal silhouette are normal. The lungs are clear without focal airspace opacity, pleural effusion, or pneumothorax. There are numerous calcified granuloma in the right perihilar region. There are multilevel degenerative changes in the thoracic spine.",
+    "classification": {
+      "lung": "The lungs are clear without focal airspace opacity, pleural effusion, or pneumothorax. There are numerous calcified granuloma in the right perihilar region.",
+      "heart": "The heart size and cardiomediastinal silhouette are normal.",
+      "mediastinal": "The heart size and cardiomediastinal silhouette are normal. There are numerous calcified granuloma in the right perihilar region.",
+      "bone": "There are multilevel degenerative changes in the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1987_IM-0644",
+    "original_report": "Heart size and mediastinal contours appear within normal limits. Pulmonary vascularity is within normal limits. No focal consolidation, suspicious pulmonary opacity, pneumothorax or definite pleural effusion. Visualized osseous structures appear intact.",
+    "classification": {
+      "lung": "Pulmonary vascularity is within normal limits. No focal consolidation, suspicious pulmonary opacity, pneumothorax or definite pleural effusion.",
+      "heart": "Heart size and mediastinal contours appear within normal limits.",
+      "mediastinal": "Heart size and mediastinal contours appear within normal limits.",
+      "bone": "Visualized osseous structures appear intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1649_IM-0426",
+    "original_report": "There is a moderate layering left pleural effusion, grossly stable. There is a moderate right pleural effusion, which is partially loculated. There is some pleural fluid tracking along the right XXXX fissure. There is bibasilar airspace disease, possibly passive atelectasis. No pneumothorax is identified. Heart size is within normal limits. Right PICC tip is at the SVC. There are mild degenerative changes of the spine.",
+    "classification": {
+      "lung": "There is a moderate layering left pleural effusion, grossly stable. There is a moderate right pleural effusion, which is partially loculated. There is some pleural fluid tracking along the right XXXX fissure. There is bibasilar airspace disease, possibly passive atelectasis. No pneumothorax is identified.",
+      "heart": "Heart size is within normal limits.",
+      "mediastinal": "Right PICC tip is at the SVC.",
+      "bone": "There are mild degenerative changes of the spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1791_IM-0515",
+    "original_report": "Limited exam as the left costophrenic XXXX is excluded from the PA view. The heart size is normal. The mediastinal contour is within normal limits. Mild lung hyperinflation. The lungs are free of any focal infiltrates. There is large calcified granuloma within the medial right lung base. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid. Mild multilevel degenerative changes seen within the thoracic spine. No visible acute fracture. There is no visible free intraperitoneal air under the diaphragm.",
+    "classification": {
+      "lung": "Mild lung hyperinflation. The lungs are free of any focal infiltrates. There is large calcified granuloma within the medial right lung base. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid.",
+      "heart": "The heart size is normal.",
+      "mediastinal": "The mediastinal contour is within normal limits.",
+      "bone": "Mild multilevel degenerative changes seen within the thoracic spine. No visible acute fracture.",
+      "others": "Limited exam as the left costophrenic XXXX is excluded from the PA view. There is no visible free intraperitoneal air under the diaphragm."
+    }
+  },
+  {
+    "id": "CXR194_IM-0609",
+    "original_report": "Heart size upper limits of normal. Small amount of left basilar airspace disease. The right lung is clear. There are no cavitary lesions seen. No pneumothorax. No pleural effusions.",
+    "classification": {
+      "lung": "Small amount of left basilar airspace disease. The right lung is clear. No pneumothorax. No pleural effusions.",
+      "heart": "Heart size upper limits of normal.",
+      "mediastinal": "",
+      "bone": "",
+      "others": "There are no cavitary lesions seen."
+    }
+  },
+  {
+    "id": "CXR2459_IM-0991",
+    "original_report": "The heart and mediastinum are unremarkable. The lungs are clear without infiltrate. There is no effusion or pneumothorax.",
+    "classification": {
+      "lung": "The lungs are clear without infiltrate. There is no effusion or pneumothorax.",
+      "heart": "The heart is unremarkable.",
+      "mediastinal": "The mediastinum is unremarkable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR201_IM-0660",
+    "original_report": "The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. There is minimal XXXX airspace opacity in the right middle lobe, XXXX atelectasis. The lungs are otherwise clear of focal airspace disease. There is no pneumothorax or pleural effusion. There is mild tortuosity of the thoracic aorta with atherosclerotic calcification of the aortic XXXX. There are moderate degenerative endplate changes in the thoracic spine. There are no acute bony findings.",
+    "classification": {
+      "lung": "Minimal XXXX airspace opacity in the right middle lobe, XXXX atelectasis. The lungs are otherwise clear of focal airspace disease. There is no pneumothorax or pleural effusion.",
+      "heart": "",
+      "mediastinal": "Mild tortuosity of the thoracic aorta with atherosclerotic calcification of the aortic XXXX.",
+      "bone": "Moderate degenerative endplate changes in the thoracic spine. There are no acute bony findings.",
+      "others": "The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size."
+    }
+  },
+  {
+    "id": "CXR2933_IM-1336",
+    "original_report": "Normal heart size. No focal air space consolidation, pneumothorax, pleural effusion, or pulmonary edema. No focal bony abnormality.",
+    "classification": {
+      "lung": "No focal air space consolidation, pneumothorax, pleural effusion, or pulmonary edema.",
+      "heart": "Normal heart size.",
+      "mediastinal": "",
+      "bone": "No focal bony abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2124_IM-0749",
+    "original_report": "There are no focal areas of consolidation. No suspicious pulmonary opacities. Heart size within normal limits. No pleural effusions. There is no evidence of pneumothorax. Degenerative changes of the thoracic spine.",
+    "classification": {
+      "lung": "There are no focal areas of consolidation. No suspicious pulmonary opacities. No pleural effusions. There is no evidence of pneumothorax.",
+      "heart": "Heart size within normal limits.",
+      "mediastinal": "",
+      "bone": "Degenerative changes of the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3150_IM-1482",
+    "original_report": "The trachea is midline. Cardiomediastinal silhouette is normal. The there are XXXX opacities in the left lower lobe of the lung, which are most XXXX dependent atelectasis. There is no pneumothorax. Visualized bony structures reveal no acute abnormalities.",
+    "classification": {
+      "lung": "The trachea is midline. There are XXXX opacities in the left lower lobe of the lung, which are most XXXX dependent atelectasis. There is no pneumothorax.",
+      "heart": "",
+      "mediastinal": "Cardiomediastinal silhouette is normal.",
+      "bone": "Visualized bony structures reveal no acute abnormalities.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2833_IM-1249",
+    "original_report": "The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. Both clavicles appear within normal limits on this limited radiographic evaluation.",
+    "classification": {
+      "lung": "There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia.",
+      "heart": "The heart, pulmonary XXXX are within normal limits.",
+      "mediastinal": "The mediastinum is within normal limits.",
+      "bone": "Both clavicles appear within normal limits on this limited radiographic evaluation.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1078_IM-0055",
+    "original_report": "The lungs are clear. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The skeletal structures are normal.",
+    "classification": {
+      "lung": "The lungs are clear. There is no pleural effusion or pneumothorax.",
+      "heart": "The heart and mediastinum are normal.",
+      "mediastinal": "The heart and mediastinum are normal.",
+      "bone": "The skeletal structures are normal.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR881_IM-2396",
+    "original_report": "The lungs are without focal air space opacity. There is no pneumothorax or large pleural effusion. The cardiomediastinal silhouette is normal in size and contour.",
+    "classification": {
+      "lung": "The lungs are without focal air space opacity. There is no pneumothorax or large pleural effusion.",
+      "heart": "The cardiomediastinal silhouette is normal in size and contour.",
+      "mediastinal": "The cardiomediastinal silhouette is normal in size and contour.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR580_IM-2177",
+    "original_report": "The heart is normal in size. The mediastinum is unremarkable. Atherosclerotic calcifications of the aortic XXXX are noted. The lungs are clear.",
+    "classification": {
+      "lung": "The lungs are clear.",
+      "heart": "The heart is normal in size.",
+      "mediastinal": "The mediastinum is unremarkable. Atherosclerotic calcifications of the aortic XXXX are noted.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR809_IM-2342",
+    "original_report": "The lungs are clear, and without focal air space opacity. The cardiomediastinal silhouette is at the upper limits of normal in size but stable from prior exam. There is tortuosity of the thoracic aorta, stable. There is no pneumothorax or large pleural effusion.",
+    "classification": {
+      "lung": "The lungs are clear, and without focal air space opacity. There is no pneumothorax or large pleural effusion.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette is at the upper limits of normal in size but stable from prior exam. There is tortuosity of the thoracic aorta, stable.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2903_IM-1307",
+    "original_report": "Cardiac silhouette is within normal limits in size for AP technique. Lungs are mildly hypoinflated but grossly clear of focal airspace disease, pneumothorax, or pleural effusion. Pulmonary vasculature is normal in caliber. There are no acute bony findings.",
+    "classification": {
+      "lung": "Lungs are mildly hypoinflated but grossly clear of focal airspace disease, pneumothorax, or pleural effusion. Pulmonary vasculature is normal in caliber.",
+      "heart": "Cardiac silhouette is within normal limits in size for AP technique.",
+      "mediastinal": "",
+      "bone": "There are no acute bony findings.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3167_IM-1491",
+    "original_report": "Lungs are clear bilaterally. Cardiac and mediastinal silhouettes are normal. Pulmonary vasculature is normal. No pneumothorax or pleural effusion. No acute bony abnormality.",
+    "classification": {
+      "lung": "Lungs are clear bilaterally. Pulmonary vasculature is normal. No pneumothorax or pleural effusion.",
+      "heart": "Cardiac silhouette is normal.",
+      "mediastinal": "Mediastinal silhouette is normal.",
+      "bone": "No acute bony abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR963_IM-2454",
+    "original_report": "The heart, pulmonary XXXX and mediastinum are within normal limits. There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia. There are minimal degenerative changes of the spine.",
+    "classification": {
+      "lung": "There is no pleural effusion or pneumothorax. There is no focal air space opacity to suggest a pneumonia.",
+      "heart": "The heart is within normal limits.",
+      "mediastinal": "The mediastinum is within normal limits.",
+      "bone": "There are minimal degenerative changes of the spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3634_IM-1801",
+    "original_report": "Stable cardiomediastinal silhouette. No focal pulmonary opacity, pleural effusion or pneumothorax. No acute bony abnormality.",
+    "classification": {
+      "lung": "No focal pulmonary opacity, pleural effusion or pneumothorax",
+      "heart": "Stable cardiomediastinal silhouette",
+      "mediastinal": "Stable cardiomediastinal silhouette",
+      "bone": "No acute bony abnormality",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3172_IM-1494",
+    "original_report": "Trachea is midline. The cardiomediastinal silhouette is normal. The lungs are clear without evidence of acute infiltrate or effusion. There is no evidence of tuberculous disease. There is no pneumothorax. There is dextroscoliosis of the lower thoracic spine.",
+    "classification": {
+      "lung": "The lungs are clear without evidence of acute infiltrate or effusion. There is no evidence of tuberculous disease. There is no pneumothorax.",
+      "heart": "",
+      "mediastinal": "Trachea is midline. The cardiomediastinal silhouette is normal.",
+      "bone": "There is dextroscoliosis of the lower thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2637_IM-1122",
+    "original_report": "Moderate-to-marked enlargement of the cardiac silhouette, mediastinal contours appear similar to prior. Mild bilateral posterior sulcus blunting, interstitial and alveolar opacities greatest in the central lungs and bases with indistinct vascular margination.",
+    "classification": {
+      "lung": "Mild bilateral posterior sulcus blunting, interstitial and alveolar opacities greatest in the central lungs and bases with indistinct vascular margination.",
+      "heart": "Moderate-to-marked enlargement of the cardiac silhouette",
+      "mediastinal": "Mediastinal contours appear similar to prior",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1974_IM-0633",
+    "original_report": "The lungs are clear. The cardiomediastinal silhouette is within normal limits. No pneumothorax or pleural effusion.",
+    "classification": {
+      "lung": "The lungs are clear. No pneumothorax or pleural effusion.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette is within normal limits.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2652_IM-1136",
+    "original_report": "XXXX XXXX and lateral chest examination was obtained. The heart silhouette and mediastinal contours are not enlarged. There is calcified mediastinal lymph XXXX. Lungs demonstrate no acute findings. There is no effusion or pneumothorax.",
+    "classification": {
+      "lung": "Lungs demonstrate no acute findings. There is no effusion or pneumothorax.",
+      "heart": "The heart silhouette is not enlarged.",
+      "mediastinal": "The mediastinal contours are not enlarged. There is calcified mediastinal lymph XXXX.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1959_IM-0625",
+    "original_report": "Normal heart size. Normal mediastinal silhouette. No pneumothorax, pleural effusion or suspicious focal air space opacity. Prior granulomatous disease appears stable.",
+    "classification": {
+      "lung": "No pneumothorax, pleural effusion or suspicious focal air space opacity. Prior granulomatous disease appears stable.",
+      "heart": "Normal heart size.",
+      "mediastinal": "Normal mediastinal silhouette.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR444_IM-2079",
+    "original_report": "The heart size is normal. The mediastinal contour is within normal limits. The lungs are free of any focal infiltrates. There are no nodules or masses. No visible pneumothorax. No visible pleural fluid. The XXXX are grossly normal. There is no visible free intraperitoneal air under the diaphragm.",
+    "classification": {
+      "lung": "The lungs are free of any focal infiltrates. No visible pneumothorax. No visible pleural fluid.",
+      "heart": "The heart size is normal.",
+      "mediastinal": "The mediastinal contour is within normal limits.",
+      "bone": "",
+      "others": "There are no nodules or masses. The XXXX are grossly normal. There is no visible free intraperitoneal air under the diaphragm."
+    }
+  },
+  {
+    "id": "CXR3498_IM-1702",
+    "original_report": "Chest. A minimally displaced fracture is present on right rib 4. The small amount of pleural fluid is XXXX deep to the fracture. No pleural air collection. Both lungs clear and expanded. Heart and mediastinum normal. Note XXXX of a levoscoliosis of the thoracolumbar spine. Right shoulder. XXXX, soft tissues, and alignment are normal. Right humerus. XXXX and soft tissues are intact.",
+    "classification": {
+      "lung": "Both lungs clear and expanded. The small amount of pleural fluid is XXXX deep to the fracture. No pleural air collection.",
+      "heart": "Heart and mediastinum normal.",
+      "mediastinal": "Heart and mediastinum normal.",
+      "bone": "A minimally displaced fracture is present on right rib 4. Note XXXX of a levoscoliosis of the thoracolumbar spine. Right shoulder. XXXX, soft tissues, and alignment are normal. Right humerus. XXXX and soft tissues are intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1448_IM-0289",
+    "original_report": "XXXX XXXX and lateral views of the chest were obtained on 02/010/XXXX. The lung volumes are normal. The lungs are clear and there are no pleural effusions. There is stable mild tenting of the medial aspect of the right diaphragm. The mediastinum and pulmonary XXXX are normal. The bony elements are not remarkable.",
+    "classification": {
+      "lung": "The lung volumes are normal. The lungs are clear and there are no pleural effusions. There is stable mild tenting of the medial aspect of the right diaphragm.",
+      "heart": "",
+      "mediastinal": "The mediastinum and pulmonary XXXX are normal.",
+      "bone": "The bony elements are not remarkable.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2701_IM-1169",
+    "original_report": "The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. Heart and mediastinum normal.",
+    "classification": {
+      "lung": "Both lungs are clear and expanded",
+      "heart": "The heart and lungs have XXXX XXXX in the interval. Heart and mediastinum normal",
+      "mediastinal": "Heart and mediastinum normal",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR508_IM-2125",
+    "original_report": "Normal heart size and mediastinal contours. No focal airspace consolidation. No pleural effusion or pneumothorax. Visualized osseous structures are unremarkable.",
+    "classification": {
+      "lung": "No focal airspace consolidation. No pleural effusion or pneumothorax.",
+      "heart": "Normal heart size and mediastinal contours.",
+      "mediastinal": "Normal heart size and mediastinal contours.",
+      "bone": "Visualized osseous structures are unremarkable.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2371_IM-0932",
+    "original_report": "There are T-spine osteophytes. The cardiomediastinal silhouette and pulmonary vasculature are within normal limits. There is no pneumothorax or pleural effusion. There are no focal areas of consolidation. There are low lung volumes.",
+    "classification": {
+      "lung": "The pulmonary vasculature are within normal limits. There is no pneumothorax or pleural effusion. There are no focal areas of consolidation. There are low lung volumes.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette is within normal limits.",
+      "bone": "There are T-spine osteophytes.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR737_IM-2295",
+    "original_report": "Heart size and pulmonary vascular engorgement appear within limits of normal. Mediastinal contour is unremarkable. No focal consolidation, pleural effusion, or pneumothorax identified. No acute bony changes.",
+    "classification": {
+      "lung": "No focal consolidation, pleural effusion, or pneumothorax identified",
+      "heart": "Heart size and pulmonary vascular engorgement appear within limits of normal",
+      "mediastinal": "Mediastinal contour is unremarkable",
+      "bone": "No acute bony changes",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3232_IM-1529",
+    "original_report": "Heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. In the left midlung zone, there has been development of a small lung nodule. This measures approximately 8 mm in diameter.",
+    "classification": {
+      "lung": "The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. In the left midlung zone, there has been development of a small lung nodule. This measures approximately 8 mm in diameter.",
+      "heart": "Heart size and pulmonary vascularity appear within normal limits.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3575_IM-1757",
+    "original_report": "Heart size normal. No pneumothorax, pleural effusion, or focal airspace disease. Central left midlung granuloma with calcified left hilar adenopathy. Bony structures appear intact.",
+    "classification": {
+      "lung": "No pneumothorax, pleural effusion, or focal airspace disease. Central left midlung granuloma with calcified left hilar adenopathy.",
+      "heart": "Heart size normal.",
+      "mediastinal": "Central left midlung granuloma with calcified left hilar adenopathy.",
+      "bone": "Bony structures appear intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3441_IM-1666",
+    "original_report": "Heart size and mediastinal contour within normal limits. No focal airspace consolidation, pneumothorax, or large pleural effusion. No acute osseous abnormality.",
+    "classification": {
+      "lung": "No focal airspace consolidation, pneumothorax, or large pleural effusion",
+      "heart": "Heart size and mediastinal contour within normal limits",
+      "mediastinal": "Mediastinal contour within normal limits",
+      "bone": "No acute osseous abnormality",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1913_IM-0595",
+    "original_report": "The heart size and cardiopulmonary silhouette is normal. There is no focal airspace opacity, pleural effusion, or pneumothorax. The obstruction are intact with mild degenerative change in the thoracic spine.",
+    "classification": {
+      "lung": "There is no focal airspace opacity, pleural effusion, or pneumothorax.",
+      "heart": "The heart size and cardiopulmonary silhouette is normal.",
+      "mediastinal": "",
+      "bone": "Mild degenerative change in the thoracic spine.",
+      "others": "The obstruction are intact."
+    }
+  },
+  {
+    "id": "CXR2186_IM-0796",
+    "original_report": "The lungs appear clear. Lung volumes are low. The heart and pulmonary XXXX appear normal. Pleural spaces are clear.",
+    "classification": {
+      "lung": "The lungs appear clear. Lung volumes are low. Pleural spaces are clear.",
+      "heart": "The heart and pulmonary XXXX appear normal.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2262_IM-0852",
+    "original_report": "XXXX right basal airspace opacity. The heart size and mediastinal silhouette are within normal limits for contour. No pneumothorax or pleural effusions. The XXXX are intact.",
+    "classification": {
+      "lung": "XXXX right basal airspace opacity. No pneumothorax or pleural effusions.",
+      "heart": "The heart size and mediastinal silhouette are within normal limits for contour.",
+      "mediastinal": "The mediastinal silhouette is within normal limits for contour.",
+      "bone": "The XXXX are intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3777_IM-1894",
+    "original_report": "Low lung volumes. The trachea is midline. Negative for pneumothorax, pleural effusion or focal airspace consolidation. The heart size is normal. Mild degenerate change of the thoracic spine. Stable cholecystectomy clips in the right upper quadrant.",
+    "classification": {
+      "lung": "Low lung volumes. The trachea is midline. Negative for pneumothorax, pleural effusion or focal airspace consolidation.",
+      "heart": "The heart size is normal.",
+      "mediastinal": "",
+      "bone": "Mild degenerate change of the thoracic spine.",
+      "others": "Stable cholecystectomy clips in the right upper quadrant."
+    }
+  },
+  {
+    "id": "CXR3238_IM-1534",
+    "original_report": "The heart is normal in size. The mediastinal contours are within normal limits. Aorta is mildly tortuous and demonstrates atherosclerotic calcifications. The lungs are mildly hypoinflated with increased peripheral lung markings noted predominantly in the right upper and lower lung. There is no acute infiltrate or significant pleural effusion. Mild eventration of left hemidiaphragm is noted.",
+    "classification": {
+      "lung": "The lungs are mildly hypoinflated with increased peripheral lung markings noted predominantly in the right upper and lower lung. There is no acute infiltrate or significant pleural effusion.",
+      "heart": "The heart is normal in size.",
+      "mediastinal": "The mediastinal contours are within normal limits. Aorta is mildly tortuous and demonstrates atherosclerotic calcifications.",
+      "bone": "",
+      "others": "Mild eventration of left hemidiaphragm is noted."
+    }
+  },
+  {
+    "id": "CXR2882_IM-1286",
+    "original_report": "There are no focal areas of consolidation. No suspicious bony opacities. Heart size slightly enlarged. No pleural effusions. There is no evidence of pneumothorax. Degenerative changes of the thoracic spine.",
+    "classification": {
+      "lung": "There are no focal areas of consolidation. No pleural effusions. There is no evidence of pneumothorax.",
+      "heart": "Heart size slightly enlarged.",
+      "mediastinal": "",
+      "bone": "No suspicious bony opacities. Degenerative changes of the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1173_IM-0118",
+    "original_report": "PA and moderate loss of the chest demonstrate stable moderate cardiomediastinal silhouette with atherosclerotic calcifications of the aortic XXXX and mild aortic ectasia. Emphysematous changes with flattening of the hemidiaphragms. Blunting of the costophrenic XXXX, and XXXX secondary to scarring/emphysematous changes. No evidence of focal airspace consolidation large pleural effusion or pneumothorax. Visualized osseous structures appear intact.",
+    "classification": {
+      "lung": "Emphysematous changes with flattening of the hemidiaphragms. Blunting of the costophrenic XXXX, and XXXX secondary to scarring/emphysematous changes. No evidence of focal airspace consolidation large pleural effusion or pneumothorax.",
+      "heart": "stable moderate cardiomediastinal silhouette",
+      "mediastinal": "atherosclerotic calcifications of the aortic XXXX and mild aortic ectasia",
+      "bone": "Visualized osseous structures appear intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3087_IM-1444",
+    "original_report": "The heart is enlarged. The mediastinal contours are stable. Large hiatal hernia is identified containing stomach and colon. Questionable small bowel loops are also visualized inthe large hernia. There is adjacent compressive atelectasis. The lungs are clear.",
+    "classification": {
+      "lung": "The lungs are clear. There is adjacent compressive atelectasis.",
+      "heart": "The heart is enlarged.",
+      "mediastinal": "The mediastinal contours are stable. Large hiatal hernia is identified containing stomach and colon. Questionable small bowel loops are also visualized in the large hernia.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1776_IM-0508",
+    "original_report": "Heart size and mediastinal contours are stable. Pulmonary vasculature is unremarkable. No focal consolidation. No visible pleural effusion or pneumothorax. No displaced rib fractures are seen. There are mild degenerative changes along the thoracic spine.",
+    "classification": {
+      "lung": "Pulmonary vasculature is unremarkable. No focal consolidation. No visible pleural effusion or pneumothorax.",
+      "heart": "Heart size and mediastinal contours are stable.",
+      "mediastinal": "Heart size and mediastinal contours are stable.",
+      "bone": "No displaced rib fractures are seen. There are mild degenerative changes along the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3001_IM-1387",
+    "original_report": "Frontal and lateral views of the chest show an unchanged cardiomediastinal silhouette. Normal mediastinal contour, pulmonary XXXX and vasculature, central airways and aeration of the lungs. The inferior posterior sulcus is excluded.",
+    "classification": {
+      "lung": "Normal mediastinal contour, pulmonary XXXX and vasculature, central airways and aeration of the lungs. The inferior posterior sulcus is excluded.",
+      "heart": "Unchanged cardiomediastinal silhouette.",
+      "mediastinal": "Normal mediastinal contour. Unchanged cardiomediastinal silhouette.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2966_IM-1359",
+    "original_report": "The heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. Scoliosis and degenerative changes are present in the spine.",
+    "classification": {
+      "lung": "The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. The heart size and pulmonary vascularity appear within normal limits.",
+      "heart": "The heart size and pulmonary vascularity appear within normal limits.",
+      "mediastinal": "",
+      "bone": "Scoliosis and degenerative changes are present in the spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2904_IM-1308",
+    "original_report": "Stable cardiomediastinal silhouette with borderline heart size and aortic ectasia/tortuosity. Stable hyperinflation without focal alveolar consolidation. No definite pleural effusion seen. No typical findings of pulmonary edema. Healed left rib fractures again noted.",
+    "classification": {
+      "lung": "Stable hyperinflation without focal alveolar consolidation. No definite pleural effusion seen. No typical findings of pulmonary edema.",
+      "heart": "Stable cardiomediastinal silhouette with borderline heart size and aortic ectasia/tortuosity.",
+      "mediastinal": "Stable cardiomediastinal silhouette with aortic ectasia/tortuosity.",
+      "bone": "Healed left rib fractures again noted.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1262_IM-0178",
+    "original_report": "The cardiac silhouette mediastinal contours are within normal limits. There are low lung volumes. There is no focal consolidation. There is pneumothorax. There is no large pleural effusion. There is prominent right anterior first rib end.",
+    "classification": {
+      "lung": "There are low lung volumes. There is no focal consolidation. There is pneumothorax. There is no large pleural effusion.",
+      "heart": "The cardiac silhouette is within normal limits.",
+      "mediastinal": "The mediastinal contours are within normal limits.",
+      "bone": "There is prominent right anterior first rib end.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1766_IM-0500",
+    "original_report": "2 images. Heart size and pulmonary vascular engorgement appear within limits of normal. Mediastinal contour is unremarkable. No focal consolidation, pleural effusion, or pneumothorax identified. No convincing acute bony findings.",
+    "classification": {
+      "lung": "No focal consolidation, pleural effusion, or pneumothorax identified.",
+      "heart": "Heart size and pulmonary vascular engorgement appear within limits of normal.",
+      "mediastinal": "Mediastinal contour is unremarkable.",
+      "bone": "No convincing acute bony findings.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3699_IM-1846",
+    "original_report": "Normal heart size mediastinal contours. No focal airspace consolidation. No pleural effusion or pneumothorax. Degenerative disc disease in the thoracic spine with osteophyte formation bridging.",
+    "classification": {
+      "lung": "No focal airspace consolidation. No pleural effusion or pneumothorax.",
+      "heart": "Normal heart size",
+      "mediastinal": "Normal mediastinal contours",
+      "bone": "Degenerative disc disease in the thoracic spine with osteophyte formation bridging",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3122_IM-1467",
+    "original_report": "The cardiomediastinal silhouette is normal size and configuration. Pulmonary vasculature within normal limits. The lungs are well-aerated. There is no pneumothorax, pleural effusion, or focal consolidation.",
+    "classification": {
+      "lung": "Pulmonary vasculature within normal limits. The lungs are well-aerated. There is no pneumothorax, pleural effusion, or focal consolidation.",
+      "heart": "The cardiomediastinal silhouette is normal size and configuration.",
+      "mediastinal": "The cardiomediastinal silhouette is normal size and configuration.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3621_IM-1792",
+    "original_report": "Lung volumes remain low. No infiltrates. Heart and pulmonary XXXX are normal.",
+    "classification": {
+      "lung": "Lung volumes remain low. No infiltrates.",
+      "heart": "Heart and pulmonary XXXX are normal.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1356_IM-0231",
+    "original_report": "Normal heart size. Normal mediastinal contour. No pneumothorax, airspace consolidation, or pleural effusion. No chest XXXX XXXX. No acute bony abnormality.",
+    "classification": {
+      "lung": "No pneumothorax, airspace consolidation, or pleural effusion.",
+      "heart": "Normal heart size.",
+      "mediastinal": "Normal mediastinal contour.",
+      "bone": "No acute bony abnormality.",
+      "others": "No chest XXXX XXXX."
+    }
+  },
+  {
+    "id": "CXR3318_IM-1587",
+    "original_report": "Cardiac and mediastinal contours are within normal limits. Prior granulomatous disease. The lungs are otherwise clear. Bony structures are intact.",
+    "classification": {
+      "lung": "Prior granulomatous disease. The lungs are otherwise clear.",
+      "heart": "Cardiac contours are within normal limits.",
+      "mediastinal": "Mediastinal contours are within normal limits.",
+      "bone": "Bony structures are intact.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR284_IM-1252",
+    "original_report": "The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute displaced rib fracture. No discrete XXXX projectile visualized. Contrast within the bilateral renal collecting systems. Contrast also probably within the left colon.",
+    "classification": {
+      "lung": "No focal consolidation, pneumothorax or large pleural effusion.",
+      "heart": "The cardiomediastinal silhouette is normal in size and contour.",
+      "mediastinal": "",
+      "bone": "Negative for acute displaced rib fracture.",
+      "others": "No discrete XXXX projectile visualized. Contrast within the bilateral renal collecting systems. Contrast also probably within the left colon."
+    }
+  },
+  {
+    "id": "CXR2723_IM-1185",
+    "original_report": "Negative for cardiac enlargement or vascular congestion. Minimal subsegmental atelectasis at the left base otherwise negative for focal confluent airspace disease. The visualized bony structures are intact. There are minimal degenerative disc changes of the mid/lower thoracic spine. No pneumothorax.",
+    "classification": {
+      "lung": "Minimal subsegmental atelectasis at the left base otherwise negative for focal confluent airspace disease. No pneumothorax.",
+      "heart": "Negative for cardiac enlargement or vascular congestion.",
+      "mediastinal": "",
+      "bone": "The visualized bony structures are intact. There are minimal degenerative disc changes of the mid/lower thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1735_IM-0484",
+    "original_report": "The trachea is midline. The cardiomediastinal silhouette is normal in size and unchanged from prior examinations with sternotomy XXXX and surgical clips overlying. There is blunting of the right costophrenic XXXX which appears unchanged from prior examination and may be secondary to scarring or pleural thickening of the right lung base. There is no evidence of acute infiltrate. There is no pneumothorax. Visualized bony structures reveal no acute abnormalities.",
+    "classification": {
+      "lung": "There is blunting of the right costophrenic XXXX which appears unchanged from prior examination and may be secondary to scarring or pleural thickening of the right lung base. There is no evidence of acute infiltrate. There is no pneumothorax.",
+      "heart": "The cardiomediastinal silhouette is normal in size and unchanged from prior examinations with sternotomy XXXX.",
+      "mediastinal": "The trachea is midline. The cardiomediastinal silhouette is normal in size and unchanged from prior examinations with sternotomy XXXX and surgical clips overlying.",
+      "bone": "Visualized bony structures reveal no acute abnormalities.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR3938_IM-2009",
+    "original_report": "Heart size normal. Lungs are clear. XXXX are normal. No pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses.",
+    "classification": {
+      "lung": "Lungs are clear. No pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses.",
+      "heart": "Heart size normal.",
+      "mediastinal": "",
+      "bone": "",
+      "others": "XXXX are normal."
+    }
+  },
+  {
+    "id": "CXR1829_IM-0537",
+    "original_report": "XXXX XXXX and lateral chest examination was obtained. The heart silhouette and mediastinal contours are not enlarged. Removal of 2 left-sided chest tubes. There is no pneumothorax. Lungs demonstrate no acute findings. There is minimal posterior pleural effusions.",
+    "classification": {
+      "lung": "Removal of 2 left-sided chest tubes. There is no pneumothorax. Lungs demonstrate no acute findings. There is minimal posterior pleural effusions.",
+      "heart": "The heart silhouette is not enlarged.",
+      "mediastinal": "The mediastinal contours are not enlarged.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1984_IM-0641-4001",
+    "original_report": "Heart size and mediastinal contour are within normal limits. No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified. Again visualized is a wedge-shaped XXXX fracture of T12.",
+    "classification": {
+      "lung": "No focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax is identified.",
+      "heart": "Heart size and mediastinal contour are within normal limits.",
+      "mediastinal": "Mediastinal contour is within normal limits.",
+      "bone": "Again visualized is a wedge-shaped XXXX fracture of T12.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2510_IM-1033",
+    "original_report": "Lungs are clear. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the thoracic spine.",
+    "classification": {
+      "lung": "Lungs are clear. No pleural effusions or pneumothoraces.",
+      "heart": "Heart and mediastinum of normal size and contour.",
+      "mediastinal": "Heart and mediastinum of normal size and contour.",
+      "bone": "Degenerative changes in the thoracic spine.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2431_IM-0973",
+    "original_report": "Lungs are clear. No focal airspace consolidation or pleural effusion. Heart size is normal. No pneumothorax. Calcified lymph XXXX.",
+    "classification": {
+      "lung": "Lungs are clear. No focal airspace consolidation or pleural effusion. No pneumothorax.",
+      "heart": "Heart size is normal.",
+      "mediastinal": "Calcified lymph XXXX.",
+      "bone": "",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2822_IM-1244",
+    "original_report": "No focal consolidation, effusion, or pneumothorax. Normal heart size. Stable left subclavian chest XXXX catheter tip in mid SVC. Lungs are well expanded. Calcified granuloma posteriorly in the medial right lower lobe. Postsurgical changes of anterior lower cervical spine fusion. Thoracic spine demonstrates mild degenerative changes with some mild XXXX loss of T4 and T7 vertebral bodies.",
+    "classification": {
+      "lung": "No focal consolidation, effusion, or pneumothorax. Lungs are well expanded. Calcified granuloma posteriorly in the medial right lower lobe.",
+      "heart": "Normal heart size.",
+      "mediastinal": "Stable left subclavian chest XXXX catheter tip in mid SVC.",
+      "bone": "Postsurgical changes of anterior lower cervical spine fusion. Thoracic spine demonstrates mild degenerative changes with some mild XXXX loss of T4 and T7 vertebral bodies.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2596_IM-1086",
+    "original_report": "The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings.",
+    "classification": {
+      "lung": "The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion.",
+      "heart": "",
+      "mediastinal": "The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size.",
+      "bone": "There are no acute bony findings.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR1139_IM-0095",
+    "original_report": "Cardiomegaly. Mediastinal contours are normal limits. Increased interstitial opacities. No pneumothorax or large pleural effusion. No acute osseous abnormality.",
+    "classification": {
+      "lung": "Increased interstitial opacities. No pneumothorax or large pleural effusion.",
+      "heart": "Cardiomegaly.",
+      "mediastinal": "Mediastinal contours are normal limits.",
+      "bone": "No acute osseous abnormality.",
+      "others": ""
+    }
+  },
+  {
+    "id": "CXR2208_IM-0815",
+    "original_report": "Persistent cardiomegaly. No abnormal airspace consolidation. Resolved interstitial edema. No pneumothorax or pleural effusion.",
+    "classification": {
+      "lung": "No abnormal airspace consolidation. Resolved interstitial edema. No pneumothorax or pleural effusion.",
+      "heart": "Persistent cardiomegaly.",
+      "mediastinal": "",
+      "bone": "",
+      "others": ""
+    }
+  }
+]
