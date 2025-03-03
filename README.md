@@ -5,6 +5,10 @@ This project runs in a Colab environment with the following setup:
 - Fine-tuning: Conducted on A100
 - Inference: Runs on L4
 
+## Dataset
+This project uses a subset of the **IU X-Ray dataset**, containing over **2,900 chest X-ray images**. The dataset can be downloaded [here](https://drive.google.com/file/d/1cdcsyJtW8G2YYptlujzDAU-fMXOpew5K/view?usp=sharing) and should be placed in the directory specified by `data_dir` in the code.  
+For evaluation, the **validation dataset** consists of reports from the original validation data, which have been categorized into four predefined anatomical regions using **GPT-4**. The processing code can be found in `prompt_engineering.py`, and the resulting data is stored in `validation_dataset.json`. The `validation_dataset.json` file should be stored in the same directory as the code to ensure proper evaluation.    
+
 ## Training and Evaluation
 Run the following Jupyter Notebook files in Colab for training and evaluation:
 - `wanglab_qwen_finetune.ipynb`
@@ -22,7 +26,7 @@ You can download trained models here:
 
 | Data Split | Lung | Heart | Mediastinal | Bone |
 |----------|----------|----------|----------|----------|
-| Validation |  |  |  |  |
+| Validation | 0.5916 | 0.5605 | 0.3973 | 0.1227 |
 | Testing | 0.6327 | 0.8161 | 0.5785 | 0.1002 |
 
 
